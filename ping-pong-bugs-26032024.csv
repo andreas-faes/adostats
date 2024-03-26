@@ -1,0 +1,427 @@
+WorkItemId,WorkItemName,RegressionCount
+512501,HELPDESK 2023 - BDEF - PRD reserved holder needs to be unreserved ST235371,0
+511528,CGI-001958 - DOGGL - Automation - Resend messages,0
+510085,CGI-001776 - Brico Rad - Do not propose Multi order pickholder that is dropped off.,2
+508935,CGI-002067 - WONDERBOFAR - Multiples labels printed for one outbound,0
+512506,CR 32323 : Hash in UAT incorrect,0
+488670,API Get Parcel provide result NULL,4
+489163,configDetailBarcodes - Invalid Request Body,1
+469906,CGI-002222 - BAUHAUS - Loading Counter of Holders,0
+511860,CGI-002219 API Item configdetailId not filled on POWAPIConfigDetBarcode,1
+489195,"temperatureZones,colors, sizes, designs, models - Invalid Request Body",2
+509383,CGI-002250 - Skatepro - Fields not present on configuration card,0
+509379,CGI-002250 - Skatepro - Did not get any txt,0
+512485,CGI Maintenance : Assignments are shown twice,0
+508296,CGI-002250 -  ACTIONLEH - Outgoing messages not sent to external,1
+489180,comments - Invalid Request Body,1
+510984,stockChanges (outbound) - transportId must be provided to get the parcel data,0
+512547,CGI-002222 - BAUHAUS - Restore all old IDs Part 2,0
+507236,CR 33065 - PICKEDITEMLABEL not printed,1
+510215,CGI-002071 - NEW ERA - API - skuQtyPerUnit missing on configDetails,0
+509082,CGI-002226 - Beliving - # Units to do not calculated correctly on queuegroup overview - fix,0
+510885,CGI-001773 - KAZ - Additional error paper printed while printing loading order,0
+509376,Labels not printed for PDF,0
+512572,CGI-002250 -  ACTIONLEH - Outgoing messages not sent to external,0
+511536,CGI-001939 - AddressReference mismatch definition vs BC,1
+486901,systemId missing in stockChanges responseBody,0
+486720,Remove documentReference on stockChanges,0
+510217,"CGI- 001998 - BDEF - DECLASSERING: DOG mapping split: Disposal reference x type x NSN x Store ",0
+510346,"HYPERCARE - CGI-002129 - DEELUXE - Queues - Totals Picking summary doesn't adapt to applied filters anymore ",0
+512502,CGI-001776 - Brico Rad - Downgrade 510085 to UAT,0
+511884,CGI-002222 - BAUHAUS - Promesys Scheduler Tasks in Error,0
+488870,POST Item - API Layer - itemGroup - Invalid Request Body,2
+463788,CGI-002068 - WONDERBOX BER - PPLCON error mails for outbounds that are not loaded,1
+512744,CGI-002142 - GildanUS - Changing fields in POWER Setup,0
+511252,Delonghi - PRMMenu_Summary - Error Pop-up,1
+508287,CGI-002190 - Zinzino FAR - 28 - Error message when Booking received stock,0
+511871,"CGI-001946 - Velgen : New Power : no SDBL031 sent ",0
+511327," TRI-Sorter Sortout by - SPLIT BY CUSTOMER REFERENCE 1",0
+512800,CGI-001958 - DOGGL - Update Queue,0
+512557,CGI-002219 POW2API Invalid QtySKUPerUnit [item config detail] - QtySKUPerUnit should be greater than 0,0
+510540,CGI-001773 - KAZ - Default item not available for filtering and linking in Excel Wizard,0
+511332,"CGI-002175 ManoMano PRD - 14 - Interface line in error 'Unhandled Exception' ",0
+512874,CGI-002175 ManoMano PRD - 15 -PICKING LINES IN WMSINTERFACE,0
+512158,"DGDoc pup-up message shown when ARD group of the Item is empty ",0
+509826," [CGI-Helpdesk Incident# 11063041 - [BE-GNT Stiga New Power] - [Cycle Count– error: Application received a faulty (internal server error) response from remote serve] ",0
+509884,CGI-002190 - Zinzino - 35 - Bottom barcode on shippinglabel with transporter MYPACK not same width as PRD. Both printed from Power and P2L not OK.,1
+512873,CGI-001958 - DOGGL - Automation - Resend messages,0
+508105,"HYPERCARE - CGI-002129 - DEELUXE - 2 replenishment queues triggered at same time for 1 location ",0
+511533,"CGI-002226 - Beliving - Bad Data, inspection queues with type queue group ""Batch picking"". ",0
+486755,CGI-002228 - CHR SPARE - Excel Wizards - Pivot table is no longer the first selected sheet,0
+488266,CGI-002228 - CHR SPARE - Special Characters added after Upload of Destination,0
+487490,CGI-002185 - Dupont FZ - upload stock 'in stock' tab on TRI card,0
+512882,CGI-001776 - BRICO - SMC HYPERCARE - Issue with D060 Mass creation tool,0
+508823,CGI-002250 - Delonghi - add to close pick holder error location blocked for putaway,1
+512574,"CGI TT - BaselineTwo - TST - BC - Launching batch picking QG leads into error [Wrong value for an input parameter in procedure ""IsComponentUsedInQueueGroupKey"" (of codeunit ""POWER Queue Group"").]",1
+510787,HELPDESK 2023 - BDEF - PRD RF scan holder error: the RF android application is not compatible with your version of power,0
+510956," [CGI-Helpdesk Incident 11064080] - [TH-MDC EDC GZ New Power] - Create Cycle Count– Error Upload ",0
+463972," [CGI-Helpdesk Problem# 10989] - [VOLVO] - [Closed TROs with incorrect status of goods] ",0
+512949,CGI-001958 - DOGGL - Automation - Resend messages,0
+508537,Create correct Move master transfer interface line.,0
+511053,CGI-001773 - KAZ - Transport  to launch shows to do but all picking queue's are on done,0
+512598,"CGI TT - Baseline - TST - RF - Filtering by Pickzone,Customer,Batch number and Date To Load doesn't find the QG at all",0
+512636," [CGI-Helpdesk Incident# 11064132] - [Polaris] - [Shipping label printing – error when printing shipping label due to special character] ",0
+508838,CGI-002250 - Delonghi - Assembly Take in - Extra screen,2
+509430,CR32547 - Boardriders - Empty Exapaqlabel printed after every packing,0
+511906,CGI-002219 API2POW API Comment Line not synched with POWER,1
+513133,CGI-001958 - DOGGL - Automation - Resend messages,0
+512195,CGI TEST TEAM - BASELINETWO - TST -  RF Stock - Cannot select Customer and add Stock Successfully,0
+512838,"Intergamma - DAIKIN - The length of the string is 13, but it must be less than or equal to 10 characters. Value SUPERHOLDERQG",0
+471366,CR 32970 - GildanUS - TRO DT Departed not editable after closure,0
+513105,BR UAT orders do not insert in BC after uat's overwrite.,0
+513322,CGI-Helpdesk - Boardriders - EDIs are not being picked up / UAT,0
+512592,API ITEM Comments not syncronized to POWER.,0
+510813,API2POW Change/Update VASCode not working,0
+511422,CGI-002250 - SERAX - Content sheet is not matching PRD,0
+507171," [CGI-Helpdesk Problem# 11012] - [BE-KI Polaris New Power] - [RF Repack– Error: Unallowed situation found in: CU 82105] ",0
+510500,CGI-002250 - Skatepro - Batch Picking issue,0
+510019,CGI-002250 - Skatepro - CC issue,0
+510241,CGI-001773 - KAZ - UAT - SDBL013 Dotnet Error,0
+508804,"CGI-002071: Tag ""IsLastHolder"" is missing from xml, Holderinfo created when holder is not the last one",2
+510794,CGI-002250 - Delonghi - Centiro triggering error via Postal code - no error and packed without error,1
+514282,CGI-002250 - Skatepro - Problem button 'not enough stock' doesn't exist,0
+513365,CGI-002250 - Skatepro - Batch picking not sorted in order of priority,0
+514390," [CGI-Helpdesk Incident# 11067554] - [UAT BE-KI Initial New Power] - [Print Delivery Note – Wrong Date de Chargement] ",0
+512512,"CGI-002190 Zinzino - 42- Barcode shipping label not filled in on holder for Centiro carriers ",0
+512896,"CGI-002067 - WONDERBOFAR - EDI ERROR ITEMS ""WE COULD NOT UPDATE THE DATA RIGHT NOW. PLEASE TRY AGAIN""",0
+514240,CGI-001958 - DOGGL - Update BWN records,0
+514228,CGI-001958 - DOGGL - Automation - Resend messages,0
+513083,CGI-001776 - BRICO - RAD HYPERCARE - SMC to RAD ASN - Difference between what's loaded in SMC and the expected received in ASN in RAD,0
+514296,CGI-002250 - Skatepro - Superholder is not visible in the hamburger menu,0
+514295,CGI-002250 - Skatepro - not able to see batch picking queue group in the hamburger menu,0
+512958,CGI-002226 - Beliving - Issues Executing TTL Queue for OUT-2268061 (DATA FIX),0
+488304,"CR 32870: Logivations AQL: when 'Import picking tours and multi orders' is used to insert logivations dataport, QG that gets created gets empty Transporter code",1
+510415,CGI-002185 - EDC FZ - DUPONT FZ - Error creating a new Cycle Count,0
+512509,CGI-xxxxxx - ACTION??? - Problem with EDI Messages,0
+514391,"HYPERCARE - CGI-002129 - DEELUXE - Remove mail from Failure To (customer card) ",0
+513273,CGI-Helpdesk Incident# 11067097 - BE-KI ADEO New Power - Error during RF Picking,0
+508860,CGI-002071 NEC TriSorterCalc Firstboxes - in case DEPENDING ON ITEM,0
+514259,CGI-002222 - BAUHAUS - Restore all old IDs Part 3,0
+512484,CGI-Helpdesk Incident 11065236 - BE-KI OM New Power UAT - Customer disappear from the queue group as soon as added to batch,0
+512945,CGI-002250 - SERAX - KGF doesn't have SERAX in UAT,1
+514541,CGI-001958 - DOGGL - Automation - Resend messages,0
+473455,CGI-002226 - Beliving - EW Sum doesn't work,0
+463749,CGI-001958 - DOGGL - Automation - Errors on Jobqueue (Pow to Ext) causing messages being sent twice,1
+514552,CGI-Helpdesk Problem# 11035 - BE-KI OM New Power - Possible to upload CSV to link to TRI if the item requested is inactive,0
+514436,CGI-002067 - WONDERBOFAR - error packed : EXEPTION when routing : sequence contains no éléments. Errorpisition : routes and populates.,0
+512573,CGI-002250 - ACTIONLEH - Problem with incoming EDI Messages,1
+512591,"CGI-001946 : Velgen New Power : Overreceiving not working ",0
+511540,"CGI-001946 : Velgen to New Power : Outgoing SDBL messages automatically go into 'Error' when triggered ",0
+512593,"CGI-001946 - Send CMS Status message OK not received from KCS ",0
+511637,"CGI-001958 - DOGGL - Automation - Customer disappear when Holder retrieval batch is added ",1
+458302,"CGI-001958 - DOGGL - Automation - Batch Picking QG can't be launched due to error ""Code must have a value in POWER Queue Group Code: Code = . It cannot be zero or empty",6
+512828,CGI-002075 - WONDERBOX - Error scanning correct check digit,0
+514504,CR 32870: update label source PRECUBING in live deb,0
+511595,GNT ORT001 is showing incorrect numbers (11065756 ),0
+512505,CGI TEST TEAM - RF INSPECTION - EXECUTE INSPECTION - Cannot choose the machine,0
+511270,CGI-002250 - Skatepro - Batch transfer a holder into a SU on PickLoc,2
+514554,CGI-002250 - Delonghi - EW 75510 BSO: DYN Picking,0
+514507,CGI-002250 - Skatepro - Batch picking queue always giving error in Styra,0
+514283,CGI-002250 - Skatepro - Problem button 'item from different pickzone' not available,0
+514602,CGI-002250 - Skatepro - View stock/View Location in Batch Picking,0
+514281,CR 32944:  change the layout of serial number labels,0
+514601,CGI-002250 - Gildan - Promesys Time Registration - Filter on Type Queue Group,0
+514389,Status of QG stays on Waiting after Queue is Finished,0
+512476,Baxter - Archive task 72195 failed to complete its run,0
+463766,"CGI-001946 - Velgen - Destination Label ",1
+508700,CGI-002250 - Delonghi - Packlist not being printed on parcel flow,1
+514382,CGI-002250 - Skatepro - Queue with 0 pcs to pick during Batchpicking,0
+514806,CGI-001776 - BRICO SUD - Missing Transfer EDI from Radicatel to SMC,0
+511330,CGI-001776 : Hypercare: Determine pick holder unit based on the picking group.,0
+508782,CGI-001776 - BRICO - SMC HYPERCARE - Queues in Waiting in QG in created,1
+511257,CGI-002222 - BAUHAUS - Resend RECCONs,1
+511019,CGI-002222 - BAUHAUS - Set Items Inactive,0
+510097,"CGI-002250 - Skatepro - Not able to scan shipping label, barcode shipping label not generated",1
+513436,CGI-002250 - Skatepro - Back button not working during batch picking,0
+513279,"Interface error ""No holder data"", Pickeditemlabel not printed",0
+467975,CGI-Promesys QV 4.1 Boardriders Old Customer missing in 4.1 Overview,0
+393687,CycleCount - Overwrite template keeps both templates,1
+393688,CycleCount - Spaces not ignored when creating templates,1
+507314,CGI TEST TEAM - BASELINE - TST - RF RECEIVING - Cosmetic change - Last scanned pickholder instead of stockholder,0
+511084,Teamleader : tab Teams --> Work shows blank screen,0
+509719,CGI-002250 - FUJI - 502271: Unlink outbound after picking is started (status: Reserved)& link to other TRO,1
+510373,CGI-002250 - FUJI - Putaway pallet to location with different default holder unit,1
+510760,CGI-002250 - SERAX- ITEMS EDI Messages with code more than 100 characters should fail but it didn't,1
+347289,CGI HELPDESK 2023 Beringen BDEF - No CENT005 created for DHL orders,2
+513394,CGI-002250 - Skatepro - Not able to book back batch picking queue if status is 'waiting',1
+508713,Boardriders UAT - New content label doesn't print correctly via P&A,0
+511321,CGI-002250 - Skatepro - PPLCON PACK Cancel quantity,0
+487439,CGI-002071 - NEW ERA - No Auto Create TRI when setting is active - API Inbound,2
+460303,CGI-002227 - MARES - ATT module TNT/UPS error on provider MyMontova,1
+513434,CGI-002250 - Skatepro - Not able to see item picture during batch picking,0
+514768,HYPERCARE - DEELUXE - CGI-002129 - STD0072 - Different Type Queue Group than Promesys Temp Timereg,0
+465750,"*2170 ZZ SE RSO - fill out Lot/BBD in RSO Interface line, coming from InbDelDet(/Outbound)",0
+514708,CGI-002075 - WONDERBOX - No Inspection Queues Created,0
+515051,CGI-002142 - GildanUS - Change setting on POWER Customer Part 2,0
+512497,CGI-001946 - Velgen - Promesys Setup,0
+514558,CGI-002250 - Delonghi - EW 75524 BSO: Flush FPL,0
+514434,Boardriders - Status of queue group is Done after Cut off,0
+508870,CGI-002071 New Era Cap - D11 - Boardriders TST - QG key for Superholder grouping + QG Batch Number + QG Status,0
+511232,CGI-001773 - KAZ - Add A Flow for the RECOUNT,0
+509446,CGI-001773 - KAZ - Picking queue's status does not update - TRO's cannot be closed,1
+514610,CGI-002250 - Gildan - LOBAS performed after the CMS was Received,0
+514367,"CGI-001773 - KAZ - Follow up shows different data as data in Timeregistration - Heat incident 11067329 ",0
+511635,CGI-001773 - KAZ - Statistics difference between calculaetd in order weight vs picked,0
+514591,CR 33189 (NEC - OutOfScope - UAT) Sortout multiple custreferences,0
+509384,"CGI-002250 - Skatepro - No data, just XML file",0
+509932,CGI-001946 - Velgen - CMR Printing,0
+515109,ADEO ECOM - API - Missing data in the new Outbound that is created via API,0
+508256,CGI-002142 - GildanUS - ARD error 'Arithmetic operation resulted in overflow',1
+510974,CGI-Helpdesk Incident #11064742 - BE-KI Intergamma New Power - Holderinformationv004 messages with wrong status,0
+487688,CGI-002142 - GildanUS - Stuck Instruction Group - STYRA UAT,1
+508036," [CGI-Helpdesk Problem# 11016] - [Zooplus] - [Failed to send instruction to STYRA. Check response message! The formatter threw an exception while trying to deserialize the message] ",0
+508032," [CGI-Helpdesk Problem# 11016] - [Zooplus ] - [Failed to send instruction to STYRA. Check response message! Error getting value from 'SerializedSteps' on 'ITG.CGI.Styra.CreateWork.Core.Domain.CreateWork.InstructionGroup'.] ",0
+511418,CGI-Helpdesk Problem# 11030 - TH-MDC BMWParts FZ New Power - Manipulation Batch Transfer not created properly,0
+488224,CGI-001776 - BRICO - RAD HYPERCARE - [Loc. To Replenish] should  not allow Transfer or Putaway of any items different than related  FPL,0
+511364," [CGI-Helpdesk Incident# 11064519] - [US-HOU GildanUS New Power] - [outbound cut off task fails] ",1
+515471,HYPERCARE - CGI-002129 - Deeluxe - Reporting showing blank customer,0
+515777,HELPDESK 2023 - BDEF - Enable the Attachment Module Matrix in PRD,0
+421392,CGI-001776 - BRICO - RAD + SMC HYPERCARE - Some SSCC don't get printed,1
+420683,CGI-001776 - BRICO - RAD + SMC HYPERCARE - SSCC doesn't get printed in PRD if piece picking QG is not finished,2
+508046,CGI-002142 - GildanUS - Cannot upload Report 73610 in Power - 'Minimum Stocklevel and Minimum Holderlevel cannot be defined together.',2
+513326,CGI-002250 - Delonghi - POWER Update Type Mover dataport issue,1
+515314,CGI-001958 - DOGGL - Automation - Resend messages,0
+472470,CGI-001958 - DOGGL - Automation - Unique ID (Precubing holder) not cleared during LOBAS,0
+508814,"CGI-001773 - KAZ - Status on waiting, 0 pieces to pick",0
+513428,PUT Item (comment): validate the client concurrency token required by the service,0
+515956,CR 32944 Create RB from Telenet PRD and deploy to UAT,0
+486608," [CGI-Helpdesk Incident# 11049376] - [BE-KI ADEO New Power] - [Precubing label – wrong gross weight] ",0
+516929,CGI-002142 - GildanUS - Delete partitions,0
+507848,Delonghi : DLG002_Dashboard Overview FPP counting,0
+495294,Type Mover does not exist in POWER Inbound Sequence,1
+514808,CGI-002250 - SKATEPRO - Impossible to delete BPQueue,0
+514695,CGI-002250 - Skatepro - Impossible to unpack,0
+512740,"HYPERCARE - CGI-002129 - DEELUXE - Autocreate HEAT incident at failing task not working - DUE DATE 11/03 (= close hypercare date) ",0
+509255,CGI-002142 - GildanUS -  POWER Outbound Statistic wrong calculation of Volume UAT,1
+509058," CGI-Helpdesk Problem# 11023 - Polaris - Outbound Customs FISC003 sending double data",0
+515879," [CGI-Helpdesk Incident# 11068449] - [BE-KI ZooPlus New Power] - [CGI Cerberus– User switch error] ",0
+517015,CGI-001958 - DOGGL - Automation - Resend messages,0
+517108,CGI-001946 - Velgen - After picking there is no TTL screen,0
+517109,CGI-001946 - Velgen - Can not link loading queues to the transport,1
+517106,"CGI-001946 : Velgen - no 4WARD001 and 002 message ",0
+517115,CGI-001946 - Velgen - Stellantis SL not printed correctly,0
+517112,"CGI-001946 - Velgen - 72813: Productivity by inch report - not working ",0
+517113,CGI-001946 - Velgen - 72806 Velgen: Promesys 2 REBUILD PRODUCTIVITY - values not correct,0
+517114,CGI-001946 - Velgen - SDBL013 has not been sent for OUT-104673,0
+507167," [CGI-Helpdesk Incident# 11059158] - [BE-KI ZooPlus New Power] - [CGI BSO Cerberus> Device usage – data not updated since January 24, 2024] ",0
+515134,CGI-002250 - ACTIONLEH - Unallowed situation in procedure GetLastPickZoneOfPickHolder,2
+517105,"CGI-002190 Zinzino PRD - 47 - No automatic cut off via scheduler task ",0
+508851,API Queues status not changing to processing,0
+510997,POST Transport Outbound - invalid request body,0
+457581,AUTOFILTER!!! - CGI-002182 - VSG-IT - Poor autofilters performance,0
+457625,CGI-002182 - VSG-IT - The width of the columns in the Pivot table does not match the size of the text in the column,0
+517158,CGI-002142 - GildanUS - Combined moves with wrong calculation in Qlikview,0
+517196,CGI-001958 - DOGGL - Automation - Resend messages,0
+514749,CGI-002250 - SKATEPRO - Location blocked,0
+510882,CGI-002190 - Zinzino FAR - 39 - DHL EXPRESS - ESI or WPX = 2 shipping labels printed,1
+517250,CGI-002190 Zinzino PRD - 48 - Putaway via RF error: Parameter pError in method StartPutawayInbound in service POWAutoshiftWS is null,0
+514827,CGI-002250 - Skatepro - NoQueueFound --> Cancel : already picked queues are also canceled,0
+472600,CR 32970 - GildanUS - Too many ARD updates on modify TRI/TRO,2
+517117,"CGI-001946 : Velgen - Access needed to move files from A, B and C",0
+514871,CGI TEST TEAM - BASELINE - TST - RF TRANSFER - TRANSFER - Cannot transfer sku from FIFO to FIFO location,0
+516885,CGI TEST TEAM - BASELINE - TST - RF TRANSFER - TRANSFER - Cannot transfer content from one FIFO loc to another,0
+517306,CGI-002190 Zinzino PRD - 50 - Precubage picklist not automatically printed on A5,0
+517104,"CGI-002190 Zinzino PRD - 46 - Error Shipping label not printed when batchloading ",0
+517044,CGI-001773 - KAZ - add test bridges in PRD DB,0
+516959,CGI-002225 - FERRERO - RECORDS PENDING IN TEMP TIMEREGISTRATION STD0072,0
+518205,CGI-001958 - DOGGL - Automation - Resend messages,0
+515211,API2POW Validation not in api - Stock Keeping Unit cannot be found (POWER Unit Per Customer),1
+514805,Only one record per (unique) orderline is queried,1
+514811,systemId missing in get stockChange (outbound),1
+510993,Add data + test endpoint,0
+517107,CGI-001946 - Velgen - Operator is planned on Ortec but not on My Apps,0
+471341,"CGI-001776 - BRICO - SMC HYPERCARE - picking on same SSCC ",0
+510789,CGI-002250 - Delonghi - Packing Amazon Flow - dummy/real carrier,1
+512737,CGI-002226 - Beliving - IF error that happens with frequency,0
+508424,CGI-002226 - Beliving - proposed Loading Location TRO incorrect when using an empty PickZone,1
+511908,CGI-002226 - Beliving - Issues Executing TTL Queue for OUT-2268061 (INVESTIGATION),0
+517243,CGI-001946 : Velgen - TURECKI Unable to print PACKLISTPACKHOLDER automatically,0
+517200,CR 33074 POWER Model Size record is inserted with Model = item code instead of Model,1
+488986,CGI-002226 - Beliving - Time consumption specific wizards,0
+508267,CGI-002225 - FERRERO - BAD PERFORMANCE ON BC,0
+517111,"CGI-001946 : Velgen - No customer specific reports printed ",0
+518308,CGI TEST TEAM - NEWERA - TST - CGI-002093: GUID problem blocks creation of outbound,0
+512939,Errors on outbound creation under heavy load,0
+517140,"HYPERCARE - CGI-002129 - DEELUXE - Delete items en mass ",1
+514812,CR 32944: empty serial number printed,0
+515200,CGI-002071 - New Era - No value found for setting API+EXTERNAL+OUTBOUND+API VERSION!,1
+516995,CGI-002250 - SERAX - Recount corrections,0
+518406,CGI-001946 - Velgen - KTN Sched. Error,0
+517251,CGI-002190 Zinzino PRD - 49 - Promesys no value inserted under #Loading boxes P2L,0
+516986,HYPERCARE - CGI-002129 - DEELUXE - Customer access to STD004_Outbound_Tracking_Arch,0
+517760,CGI-002190 (Timereg CGI-002170) - 56 - Cannot input ITEM on OUTBOUND Card Baseline2 - RSO2,0
+479953,"CGI-002224 - Haier Hypercare wave 4-During picking, loading location is request over and over( when we are working with the same TRO)",3
+512206,CGI-001773 - KAZ - Delete lot numbers in Stock,0
+517188,CGI-Helpdesk Incident# 11069795 - ES-IDT Bauhaus New Power - IDs cleaned up out of cleanup logic,0
+510814,"CGI-002142 - GildanUS - Partition not being updated after replenishment done UAT ",0
+510831,"CGI-002142 - GildanUS - Interface error ""Wrong assignment of holder to partition range found in function ""GetPartitionRecForHolder"" (CU 81786"" during transfer ",0
+510815,"CGI-002142 - GildanUS - Picking error  ""Unable to clear location of specified holder!"" UAT",0
+516994,Boardriders - Superfluous 'Replenishment' queue groups (with status 'Done') created during processing BWN,0
+518628,BR - CLOG return note: Partly in wrong language (new occurence in 2nd round of UAT testing),0
+517176,CGI-001862 - Decathlon - active flag No Pplcon for customer,0
+514427,"CGI-002190 Zinzino FAR - 43 - P2L shipping labels don't print ",0
+514841,CGI-002067 - WONDERBOX - Autocreate HEAT incident at failing task not working,0
+518577,ADEO ECOM - API - Outbound changes POW2API are not happening ( No value found for setting API+EXTERNAL+OUTBOUND+API VERSION!),0
+460665,CGI-002067 - WONDERBOFAR - False error while linking from 73460 POWER Queue Group List,0
+518317,CGI-002205 KitchenAid - 7 - Error processing STKADJ,0
+517182,CGI-001946 - Velgen - Wrong assignment of holder to partition range,0
+514794,"CGI-002129 - DEELUXE - HYPERCARE - Issue with qty in TRO Statistics (Status ""Waiting"" of picking queues not taken into account for SKU Reserved)",0
+513135,CGI-002075 - WONDERBOX - Error when scanning Item Barcode,0
+518573,CGI-001946 - Velgen - Packing List Printing during picking,0
+517110,CGI-001946 : Velgen - No Leading Report Packlist printed BMW,1
+517758,CGI TEST TEAM - BASELINE - TST - RF ASSEMBLY - ASSEMBLY - Back button not responding,0
+518430,"Error No linked on the fly Flow in logical use case input ",0
+518536,CGI001946 - Velgen - Velgen New Power Tile is not Available in Heats for MyApps,0
+517014,CR 33366 (TeamWhite) - issue during AssembeTRO - No active stock found on the holder To,1
+517230,CGI TT - BaselineTwo - TST - RF - Unable to go back by pressing back button in Packholder page,0
+510234,CGI- 001998 - BDEF - DECLASSERING: requested assets visible in power per OL (not in OL table),0
+470777,CGI-002067 - WONDERBOFAR - KTN Shipping label - wrong datas,1
+519260,CGI001946 - Velgen - Requesting Velgen Tile Via Heats Goes in Error,0
+518687,Superholder broken down during picking,0
+518674,CGI-001862 - Decathlon - Update Customer Card  73113 POWER Customer Commun List,0
+518435,CGI-001776 - BRICO - RAD HYPERCARE - Weight picked not displayed anymore,0
+519727,CGI-001776 - Brico SMC - PPLCON Sched task in Error,0
+514961,CGI-002250 - SKATEPRO WMS Interfaced,0
+514994,CGI-002250 - SKATEPRO Scan different holder,0
+509377,"CGI-002250 - Skatepro - ""show on cycle count"" not in export/import of report 72715",1
+518202,CGI001946 - Velgen - Can’t link loading queues for certain QG’s because of the incorrect status,0
+514368,CGI-002219 Keep measurements SKU in sync,0
+519803,CGI-001776 - BRICO - RAD HYPERCARE - Putaway queue created by a picker,0
+519736,CGI-001862 - Decathlon - Add to Customer Card  73113 POWER Customer Commun List,0
+517019,CGI-002142 - GildanUS -  POWER Outbound Statistic wrong calculation of Volume & Weight,0
+460621,[CGI-Helpdesk Problem# 10983] - [KitchenAid - review the setup of External Outgoing Messages],0
+511558,Storage+Shipping Condition do not exist in POWER Temperature Zone,1
+517027,CGI-002142 - GildanUS - Unable to break super holder due to open Loading/TTL queue,0
+514890,"Enabling task TTL PACKED HOLDER generate error in packing interface record ",1
+510998,GET Transport Link -- Resource not found,1
+517090,CGI-002075 - WONDERBOX - Correction for new stock,0
+512475,"CGI-Helpdesk Problem #11033 - US-HOU GildanUS New Power - Error ""Outbound on superholder : unlink queue"" during linking/unlinking",0
+514403,CGI-Helpdesk Incident# 11067343 - BE-KI Zeeman New Power - BSO/BSG app cannot create new business administrator,0
+519797,CGI-002273 - Skatepro - Putaway - Timereg has no #unit value,0
+516930,CGI-002068 - WONDERBOBER - ASSEMBLY: multiple displays on one stock holder - wbox serials incorrectly registered,0
+514928,POST ITEM (all tst) - the record is not open,0
+488913,CGI-002142 - GildanUS - ARD order cleaned up - not possible to send ARD013 (update pickup),1
+516987,CGI TEST TEAM - NEWERA - TST - CGI-002093: POWApiTransportOutbound doesn't get updated after every status change of the TRO,0
+515426,CGI TEST TEAM - NEWERA - TST - Outbound: POWApiStockLedgerEntry not updated after loading/unloading,0
+519799,CGI-002205 - STOCK PICTURE,0
+511007,GET transportsModified - Resource not found for the segment 'transportsModified',2
+518662,"CGI-002173 - GDYRETREAD - RF Packing - Error ""The KTN Picture does not exist..."" after scanning item barcode",0
+517765,HELPDESK 2023 - BDEF - PRD Packing/shippinglabel error: no value found for setting POWER+OUTBOUND+CARRIER LABELS+CENTIRO PRINTOUT with linked value BDEF!,0
+473430,CR 32547 Add generated sscc on the content label - UAT issue - dest label is not printed at all,0
+519210,CR 32863 - Interface Line goes into Error after CC and Recount are Done,0
+519815,CGI-002270 - Fuji Oil -Promesys reporting services not working,0
+520081,"CGI-001958 - DOGGL - Automation - Change status of the queues in waiting ",0
+513151,CGI-Maintenance: Events are failing in CC for deletion of customer data after customer is deleted,0
+512570,CGI-002071 - NEW ERA UAT - INBOUND : Error during the first attempt of the TRI's creation,3
+519173,CGI-002170 - ERROR when input REASON CODE in STYRA - RETURN SORT OUT RSO 2,0
+515320,CGI-002071 - NEW ERA UAT - INBOUND > API > Postman : GET Inbound > Quantity Assigned is always =0,1
+516911,CGI-002071 - NEW ERA UAT - INBOUND : Putaway not sent to Styra,0
+514750,Incident# 11068571 : Cycle Count - Stiga - Adding Zone Restrictions has a White screen,0
+519081,CGI-002273 - Skatepro - Pickwave records do not contain txt at the comment field,0
+519097,CGI-002273 - Skatepro - PROMESYS timereg - Lines with fictive username (POW_Interface issue),0
+508096,TRI SORTER Label NOT printed in TRI SORTER App,0
+520039,CGI TEST TEAM - BASELINE - TST - BC - Transfer Interface Line goes to error,0
+520249,"CGI-002071 - NEW ERA UAT - INBOUND > Error "" The supplied company name is not valid"" ",0
+510513,CGI-002250 - ACTIONWRO - Missing setup in POWER for Putaway,2
+519922,CGI-002270 - FUJI Oil - Promesys scheduled codeunits and reports in error,0
+519995,CGI-002270 - FUJI Oil - Unable to print CMRs due to locking issue,0
+479565,CGI-002073 - KitchenAid - Bug Autolaunch Picking,3
+517756,CGI-002073 - KA Flex : Autolaunched Picking Queues Without Stock In Location,0
+520417,CGI-002071 - NEW ERA UAT - INBOUND > Permission error shown only for user ITGLO\MAAROUFM,0
+495495,"CGI-002073 - KA flex : QG overview - Add #pending ",1
+520218,CGI-002185 - Somboon OUT cut off as piece picking,0
+520219,"CGI-002185: Cannot close the TRI,due to CSR forget to insert transport type ",0
+518201,CGI-002190 - Zinzino FAR - 58 - Promesys Board Table not filled-out,0
+520247,CGI-002273 - Skatepro - Productivity lost for 2 days,0
+520445,"CGI-002071 - NEW ERA UAT - INBOUND > Error ""The supplied company name is not valid."" shown during STYRA Putaway and during Delete Putaway via ""Instruction Groups""",0
+520073,CGI-Helpdesk Incident# 11072788 FR-LEH ACTION New Power,0
+520006,CGI TT - BaselineTwo - TST - RF - Scanning orderline in Repack leads into error message 'Outbound [OUT-0171238] different from previous outbound [OUT-0170741]',0
+495493,CGI-002073 - KA flex :  Do not launch QG that contain pending Queues.,3
+520357,CGI TT - Baseline - TST - BC - Change unit is not triggered after error message shown for not being able to pack pickholder with setting false possible packholder,0
+520367,CGI TT - Baseline - TST - BC - Holder gets packed with all dimensions set as zero,0
+518683,CGI-001946 - Velgen - PPLCON not being received by BMW,0
+520087,CGI-001946 - Velgen - Volumes & hours missing in BT?,0
+518542," [CGI-Helpdesk Incident# 11071562] - [MyApps>CGI BSO APAC] - [Device usage menu empty] ",0
+518991,CGI-002071 - NEW ERA UAT - INBOUND > TRI Sorter > Labels for TRI sorter are not printed,1
+509099,"CGI-002071 - NEW ERA UAT - INBOUND > TRI Sorter application : In case of First box does not appear the notification on the screen "" NEW"" or "" Supplier Control""",0
+507161,CGI-002073 - KA flex : QG status should reflect the lowest status of a queue.,0
+517254," [CGI-Helpdesk Incident# 11070019] - [BE-GNT NilfiskBE New Power] - [Item card – can't modify item] ",0
+520008,"Baseline- Column ""Item Description"" and column ""Total #SKU opened replenishment queues per item"" are not displayed in Table  POWFlexLocationsToFlush",0
+520174,CR 33319 table modifier,0
+520443,CGI-002173 - GDYRETREAD - Error message creating new items,0
+520440,CR 32870: update label source PRECUBING in live deb,0
+519293,"CGI-002142 - GildanUS  - QV - Process Parameters KPI Volumes are 0. ",0
+519295,CGI-002142 - GildanUS - Low number of units even with high number of queues,0
+520661,CGI-002071 - newera UAT - Multicustomer api,0
+518253,CGI-002071 - New Era - Resource not found for the segment 'lineParcels,1
+520471,POW2API Sync not triggered,0
+518423,CGI-002071 - New Era - No Data on Get stockChange Outbound,0
+520610,"CGI-001862 - Decathlon - Update Power Setup card ",0
+520609,CGI-001958 - DOGGL - Automation- Cancel Queue no 40449864,0
+520748,CGI-001958 - DOGGL - Automation - Cancel Holder no,0
+520638,CGI-001862 - Decathlon - update in the KTN Bridge list,0
+520634,CGI-002140 - Payper - Update in KTN Bridge list,0
+515036,"CGI TT - BASELINE - TST - BC - Unlink QG with status = waiting Queue goes to done ",0
+520280,CGI-002250 - ACTIONWRO - Unable to finish putaway queue,0
+514889,Boardriders - Cut off - PTO - Scheduled task goes in error,1
+508704,CGI-002142 - GildanUS - Transfer interface lines are too slow,0
+518801,ADEO ECOM - API - Outbound changes POW2API are not happening after Get Pow2API,1
+516915,CGI-002142 - GildanUS - Cut off runs too slow : pop up when cut off with partial cancellation,0
+520715,CGI-002071: inbound yaml not parsed missing sibling on array,0
+514559,CGI-Helpdesk Incident# 11067423 - BE-KI Boardriders New Power - Cut off reserving Super Holders,0
+520688,CGI-002137_PickDimension Not added In POWER Queue Group,0
+518571,CGI-002253 - Ferrero Positive Release - Not able to do cut off for Type outbound Normal (just unrestricted goods),0
+339556,CGI-001974 - IG UAT  - AUTOSTORE - not possible to scan item during Cycle Count (EL EDB-7089),3
+457725,"CGI-001974 - IG HYPERCARE PRD - AUTOSTORE - Export each putaway mission in error ",0
+518207,"CGI-002190 Zinzino PRD - 52 - Time one hour later in POWER Timeregistration ",0
+517103,CGI-002190 Zinzino PRD - 45 - TTL queue in status Started,0
+508970,CGI-Helpdesk Incident# 11061971 BE-GNT Stiga New Power,0
+513274,CGI-Helpdesk Incident# 11067126 BE-KI Delonghi New Power,0
+517333,CGI-002190 Zinzino PRD - 51 - Precubage picklist order is wrong. Order of lines should be according to the picking route not item number.,0
+518377,CGI-002071 - NEW ERA UAT - INBOUND : No Data on Get stockChange Inbound,0
+520562,CGI-002142 - GildanUS - Dataport 73611- POWER Location UPDATE no pickw is not updating after an import UAT,0
+521266,"CGI-002190 Zinzino PRD - 60 - Queue group in status Started. But queues already done. Can it be set as Done? ",0
+488736,CGI-001773 - KAZ - Stock correction with no country of origin,0
+514303,CGI-001773 - KAZ - Cycle count error with lot number,0
+515774,Kitchenaid - Type Queue Group: Flush,0
+521220,"MODIFY Item Configuration - When Stackheight is modified in Item Configuration Details, it is not modified in POWApiItemConfiguration ",0
+520755,"MODIFY Item Configuration - When TYPE MOVER is modified on the Item Card, it is not modified in the table POWApiItemConfiguration",0
+521221,IG from Styra take too long to create related IF line,0
+515091," [CGI-Helpdesk Problem# 11036] - [BE-KI Delonghi New Power] - [Assembly Cut Off – Missing Replenishment Queue Group] ",0
+518578,CGI-002190 Zinzino PRD - 55 - Stocklines not archived,0
+518482,CGI-002250 - Gildan - Packlist not sent to SADBEL,0
+519016,Missing validations Item Config Detail measurements,0
+518433,Change transportInboundsModified to transportsModified - elevate consistency,1
+521384,CGI-002075 -WONDERBOX- Missing flows,0
+486577,CGI-Helpdesk Problem# 11041 - VSG-IT - PROMESYS - Packing/Repack Time REG not correct,1
+518298," CGI-Helpdesk Problem# 11042 - BOARDRIDERS - Inspection - Unhandled Exception due to Inspections",0
+518251,"Wonderboxfar - MultiOrderPicking - Outbound does not cut off when we have mixed items in Outbound, but item MIXED does not exist in the item List",1
+507757,CGI-002175 ManoMano PRD - 12 - Cannot print discharge list,1
+521410,CR 33230 Config missing in FBP/FPFP,0
+510248,CGI- 001998 - BDEF - DECLASSERING: specific asset picking visible in QG,0
+514344,Missing validations Item Config Detail (Barcode),1
+521389,CGI-002196 - Daikin - Remove LOT No from the stock table since it's causing the STKUPD message to fail,0
+519899,TTL Queue not created after picking,1
+521387,*2137 Z+ - Can't add record for SH in Pow holder Type,0
+521808,CGI TT - Baseline - TST - BC - Packing a full box holder leads into error message [Quantity 10 not allowed],0
+520245,"CGI-002239 - TeddyOne - Avoid that new orders modify the field ""Searchname"" in table ""Buyer""",0
+519808,CGIPRM0032 Kawasaki E-Times - Regie Registration Issue,0
+520581,"CGI-002250 - SERAX - ""Container No"" not sent to SADBEL (from TRO card)",0
+512498,CGI-002250 - SERAX - Outgoing messages in error don't have descriptions,1
+520549,Functional bug,0
+518763,CGI-002273 - Skatepro - Queues are divided per Box dimension,0
+519224,Change unit during Assemble TRO,0
+518445,CGI-002071 - New Era - Picking Autolaunched after link to TRO,0
+518784,"CGI-002273 - Skatepro - Queue group keys ",0
+522241,CGI-002142 - GildanUS - Delete stock line for holder 482138,0
+522169,CGI-002142 - GildanUS - SSCC is already received for this TRI - not received in ID - Cannot close TRI,0
+521667,Modify Item Barcode - Is EAN13 Barcode,0
+521458,"OMH- Error appears ""POWER ERROR- Sorry, we just updated this page. Reopen it, and try again"" during the execution of replenishment in RF.",0
+518443,CGI-002071 - New Era - TTL not autolaunch after picking (HolderInformation to be triggered),0
+514817,CGI-002185 - GKN AWD - CC Styra - Error message after confirming checkdigit,0
+521360,Sync team data seems to have issues,0
+514252,CGI-002075 - WONDERBOX - Cancelled Cycle count still in Styra,0
+521321,CGI-002250 - ACTIONSUPHUB- STATUS IN PENDING / No work found on STYRA,1
+507678,Promesys - Wage Cost Analysis CGI- 002259,0
+522322,CGI-002239 - Teddy - Any Label print Error,0
+522343,CGI-002239 - Teddy - RF Stock - Existing Stock (not working),0

@@ -1,0 +1,106 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+	google.charts.load('current', {packages: ['corechart', 'bar']});
+
+	google.charts.load('current', {'packages':['table']});
+	google.charts.setOnLoadCallback(drawTable);
+	google.charts.setOnLoadCallback(drawRightY);
+
+	function drawRightY() {
+		var data = google.visualization.arrayToDataTable([
+			['', 'Regressions'],
+			['6 times', 1],
+			['5 times', 0],
+			['4 times', 1],
+			['3 times', 5],
+			['2 times', 14],
+			['1 time', 69],
+			['None', 333]
+		]);
+
+		var materialOptions = {
+			legend: { position: 'none'},
+			bars: 'horizontal',
+			axes: {
+			  y: {
+				0: {side: 'right'}
+			  }
+			}
+		};
+		var materialChart = new google.charts.Bar(document.getElementById('chart_div'));
+		materialChart.draw(data, materialOptions);
+	}
+    
+	function drawTable() {
+		var data = new google.visualization.DataTable();
+		data.addColumn('string', 'ID');
+		data.addColumn('string', 'Title');
+		data.addColumn('number', 'Regressions');
+		data.addRows([
+			["510085","CGI-001776 - Brico Rad - Do not propose Multi order pickholder that is dropped off.",2 ],
+			["488670","API Get Parcel provide result NULL",4 ],
+			["489195","temperatureZones,colors, sizes, designs, models - Invalid Request Body",2 ],
+			["488870","POST Item - API Layer - itemGroup - Invalid Request Body",2 ],
+			["508838","CGI-002250 - Delonghi - Assembly Take in - Extra screen",2 ],
+			["508804","CGI-002071: Tag 'IsLastHolder' is missing from xml, Holderinfo created when holder is not the last one",2 ],
+			["458302","CGI-001958 - DOGGL - Automation - Batch Picking QG can't be launched due to error 'Code must have a value in POWER Queue Group Code: Code = . It cannot be zero or empty",6 ],
+			["511270","CGI-002250 - Skatepro - Batch transfer a holder into a SU on PickLoc",2 ],
+			["347289","CGI HELPDESK 2023 Beringen BDEF - No CENT005 created for DHL orders",2 ],
+			["487439","CGI-002071 - NEW ERA - No Auto Create TRI when setting is active - API Inbound",2 ],
+			["420683","CGI-001776 - BRICO - RAD + SMC HYPERCARE - SSCC doesn't get printed in PRD if piece picking QG is not finished",2 ],
+			["508046","CGI-002142 - GildanUS - Cannot upload Report 73610 in Power - 'Minimum Stocklevel and Minimum Holderlevel cannot be defined together.'",2 ],
+			["515134","CGI-002250 - ACTIONLEH - Unallowed situation in procedure GetLastPickZoneOfPickHolder",2 ],
+			["472600","CR 32970 - GildanUS - Too many ARD updates on modify TRI/TRO",2 ],
+			["479953","CGI-002224 - Haier Hypercare wave 4-During picking, loading location is request over and over( when we are working with the same TRO)",3 ],
+			["511007","GET transportsModified - Resource not found for the segment 'transportsModified'",2 ],
+			["512570","CGI-002071 - NEW ERA UAT - INBOUND : Error during the first attempt of the TRI's creation",3 ],
+			["510513","CGI-002250 - ACTIONWRO - Missing setup in POWER for Putaway",2 ],
+			["479565","CGI-002073 - KitchenAid - Bug Autolaunch Picking",3 ],
+			["495493","CGI-002073 - KA flex :  Do not launch QG that contain pending Queues.",3 ],
+			["339556","CGI-001974 - IG UAT  - AUTOSTORE - not possible to scan item during Cycle Count (EL EDB-7089)",3 ]
+		]);
+
+		var table = new google.visualization.Table(document.getElementById('chart_div2'));
+
+		table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
+	}
+    </script>
+	<style>	
+		.title {
+			font-family: "Segoe UI", "-apple-system", BlinkMacSystemFont, Roboto, "Helvetica Neue", Helvetica, Ubuntu, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+			font-size: 1rem;
+			max-height: 26px;
+			padding-right: 32px;
+			padding-bottom: 2px;
+			width: 100%;
+			overflow: hidden;
+			white-space: nowrap;
+			text-overflow: ellipsis;
+			margin: 0;
+			font-weight: normal;
+		}
+		
+		.download {
+			font-size: 9;
+		}
+		
+		#chart_div2 {
+		  margin-top: 10px;
+		}
+		
+		#chart_div {
+		  margin-top: 25px;
+		}
+	</style>
+  </head>
+
+  <body>
+    <div class='title'>CGI: PING PONG BUGS</div>
+	<div class='download' >last generated on 26/03/2024 - 14:13	<a href='ping-pong-bugs-26032024.csv'>download (right click > open in new tab)</a></div>
+	<div id="chart_div"></div>
+	<p>More info:</p>
+	<div id="chart_div2"></div>
+  </body>
+</html>
