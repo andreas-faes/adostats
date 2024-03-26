@@ -1,0 +1,692 @@
+Id,Name,TotalTestCount,AutomatedTestCount,GenericTestCount,GenericAndAutomatedTestCount
+298106,180671 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Change Max BBD [Regression],0,0,0,0
+298109,180668 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Change Max 1 Coo [Regression],0,0,0,0
+298112,180661 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Partition [Regression],0,0,0,0
+298116,180673 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Modify dimensions [Regression],0,0,0,0
+298120,LOGIVATION,0,0,0,0
+298123,181164 : MASTER DATA - LOCATION - CLUSTER - MANAGEMENT - Statistics [Regression],0,0,0,0
+298135,180663 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Regenerate All Partitions [Regression],0,0,0,0
+298136,181166 : MASTER DATA - LOCATION - CLUSTER - MANAGEMENT - Location - Card [Regression],0,0,0,0
+298139,180672 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Functionality [Regression],0,0,0,0
+298142,180660 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Location [Regression],0,0,0,0
+298145,187639 : INBOUND - TRI MGMT - TRI - receive 4WARD006  [Regression],0,0,0,0
+298146,180276 : INBOUND - TRI MANAGEMENT -  Count TRI's [Regression],0,0,0,0
+298147,180280 : INBOUND - TRI MANAGEMENT - Statistic TRI's [Regression],0,0,0,0
+298148,180286 : INBOUND - TRI MANAGEMENT - Summary all transport inbound [Regression],0,0,0,0
+298149,180289 : INBOUND - TRI MANAGEMENT - TRI Sorter Control Box [Regression],0,0,0,0
+298150,180294 : INBOUND - TRI MANAGEMENT - Link Nota Fiscal [Regression],0,0,0,0
+298151,180296 : INBOUND - TRI MANAGEMENT - Pre-Validate Transport [Regression],0,0,0,0
+298152,180298 : INBOUND - TRI MANAGEMENT - EDI Receive Log [Regression],0,0,0,0
+298153,180307 : INBOUND - TRI MANAGEMENT - Fill in palletpool [Regression],3,0,0,0
+298154,188737 : TRI MGMT - TRI - Transport - KPI[Regression],2,0,1,0
+298155,188740 : TRI MGMT - TRI - Transport - Link Inbound Deliveries [Regression],3,0,1,0
+298156,188743 : TRI MGMT - TRI - Transport - Logging [Regression],14,0,4,0
+298157,180396 : INBOUND - TRI MANAGEMENT- REPORTS - Discharge List Expected [Regression],0,0,0,0
+298158,180397 : INBOUND - TRI MANAGEMENT- REPORTS - Discharge List InbDel [Regression],0,0,0,0
+298159,180399 : INBOUND - TRI MANAGEMENT- REPORTS - Warehouse Receipt [Regression],0,0,0,0
+298160,180413 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Check Blocked Reason during Returns flow [Regression],0,0,0,0
+298161,180416 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Check XDOCK Type [Regression],0,0,0,0
+298162,180423 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Validate Inbound [Regression],0,0,0,0
+298163,180439 : INBOUND - TRI MANAGEMENT- IN STOCK - create [Regression],0,0,0,0
+298164,180444 : INBOUND - TRI MANAGEMENT- IN STOCK - Book Selected Records [Regression],0,0,0,0
+298165,180447 : INBOUND - TRI MANAGEMENT- IN STOCK - Assign Holder [Regression],0,0,0,0
+298166,180454 : INBOUND - TRI MANAGEMENT- IN STOCK - Card[Regression],0,0,0,0
+298167,180457 : INBOUND - TRI MANAGEMENT- IN STOCK - Change Type Mover [Regression],4,0,4,0
+298168,180459 : INBOUND - TRI MANAGEMENT- IN STOCK - Print SSCC Label [Regression],0,0,0,0
+298169,186447 : INBOUND - TRI MANAGEMENT -  IN STOCK - send 4WARD001 [Regression],0,0,0,0
+298170,180484 : INBOUND - TRI MANAGEMENT- EXPECTED - DELETE line [Regression],1,0,1,0
+298171,180492 : INBOUND - TRI MANAGEMENT- EXPECTED - Count [Regression],0,0,0,0
+298172,187650 : INBOUND - TRI MGMT - RF INBOUND VOLVO - Create Xdock Receiving Menu - Counter Receiving [Regression],0,0,0,0
+298173,187653 : INBOUND - TRI MGMT - RF INBOUND VOLVO - Create Xdock Receiving Menu - Delete Holder Label [Regression],3,0,0,0
+298174,180087 : INBOUND - EDI ASN&RECCON - OUTGOING EDI RECON - RELEASE [Regression],0,0,0,0
+298175,180090 : INBOUND - EDI ASN&RECCON - OUTGOING EDI RECON - CLOSE [Regression],0,0,0,0
+298176,180213 : INBOUND - DELIVERY MANAGEMENT - Actions - Search Unique ID [Regression],0,0,0,0
+298177,180219 : INBOUND - DELIVERY MANAGEMENT - Actions - EDI Send Log [Regression],0,0,0,0
+298178,180231 : INBOUND - DELIVERY MANAGEMENT - In stock - New Line [Regression],0,0,0,0
+298179,180234 : INBOUND - DELIVERY MANAGEMENT - In stock - Change Discharging Transports Selected Lines [Regression],0,0,0,0
+298180,180237 : INBOUND - DELIVERY MANAGEMENT - In stock - Print Holder Label [Regression],0,0,0,0
+298181,180539 : INBOUND - RF RECEIVING - ANDROID - Consumer Retour [Regression],23,0,0,0
+298182,180542 : INBOUND -  RF RECEIVING - ANDROID - Link Inbound Delivery [Regression],0,0,0,0
+298183,"187723 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - WCS030 (confirm transfer holder, Qs putaway/replenish Done) [Regression]",0,0,0,0
+298184,187727 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Click Other location[Regression],0,0,0,0
+298185,187730 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Putaway Booked In Stock holder to picking location [Regression],0,0,0,0
+298186,187733 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Putaway on location within the same cell[Regression],0,0,0,0
+298187,187759 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF (Android) - Putaway [Regression],94,22,39,22
+298188,187818 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - RF ASSEMBY - Outgoing EDI STKASS [Regression],0,0,0,0
+298189,186488 : INBOUND - ASSEMBLY ORDERS - MAIN ORDER - Book back main orderline [Regression],0,0,0,0
+298190,187786 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ORDER - show stock [Regression],0,0,0,0
+298191,187788 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ORDER - VAS codes [Regression],0,0,0,0
+298192,187797 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - RESERVATION - Manage new line [Regression],0,0,0,0
+298193,187800 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - RESERVATION - Reservation - Book back part of selected line [Regression],0,0,0,0
+298194,187810 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ASSEMBLED - Manage Count [Regression],0,0,0,0
+298195,187824 : STOCK MGMT - INBOUND STRATEGY - SETUP - New [Regression],0,0,0,0
+298196,187850 : STOCK MGMT - INBOUND STRATEGY SEARCH METHOD - Move Down[Regression],0,0,0,0
+298197,187968 : STOCK MGMT - EDI - Incoming EDI STKUPD [Regression],0,0,0,0
+298198,187974 : STOCK MGMT - STOCK - WCS152 (stock picture from WCS to make report) [Regression],0,0,0,0
+298199,187992 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - Holder Stock List - Action - Holder Label [Regression],1,0,0,0
+298200,188066 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS RF TRANSFER   (ANDROID) - Transfer[Regression],32,11,27,11
+298201,188069 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS RF TRANSFER   (ANDROID) - Autoshift [Regression],9,5,8,5
+298202,188092 : STOCK MGMT - STOCK SELECTION - VIEW STOCK - Select [Regression],0,0,0,0
+298203,188095 : STOCK MGMT - STOCK SELECTION - VIEW STOCK - Holder [Regression],0,0,0,0
+298204,188098 : STOCK MGMT - STOCK SELECTION - VIEW STOCK - Stock EW View [Regression],0,0,0,0
+298205,188110 : STOCK MGMT - MANIPULATION - Manipulation - LB2S Detail[Regression],4,0,0,0
+298206,188113 : STOCK MGMT - MANIPULATION - Palletpool - Palletpool Correction[Regression],0,0,0,0
+298207,188133 : STOCK MGMT - JOURNAL STOCK - Search [Regression],2,0,0,0
+298208,188143 : STOCK MGMT - SERIAL NUMBERS MANAGEMENT -  Serial Number  Label[Regression],0,0,0,0
+298209,188164 : STOCK MGMT - CYCLE COUNT -  Create Cycle Count [Regression],0,0,0,0
+298210,188166 : STOCK MGMT - CYCLE COUNT - Set Back Created [Regression],0,0,0,0
+298211,177181 : STOCK MGMT - Holder Retrieval - define a picklocation as a Geek+ location [Regression],0,0,0,0
+298212,177182 : STOCK MGMT - Holder Retrieval - create a picking queue from a Geek+ location [Regression],0,0,0,0
+298213,177187 : STOCK MGMT - Holder Retrieval - book back a holder retrieval queue [Regression],0,0,0,0
+298214,188222 : STOCK MGMT - REPLENISHMENT- RF Replenishment -  execute replenishment requested holder [Regression],0,0,0,0
+298215,188225 : STOCK MGMT - REPLENISHMENT- WCS030 (confirm transfer holder) [Regression],0,0,0,0
+298216,177606 : OUTBOUND - TRO MGMT - CLOSE TRO - EDI ORDER & PPLCON - For specific carriers [Regression],0,0,0,0
+298217,"188254 : OUTBOUND - TRO MGMT - CLOSE TRO -  Close TRO with status goods ""in order""[Regression]",1,0,1,0
+298218,"188259 : OUTBOUND - TRO MGMT - CLOSE TRO - Close TRO with status goods ""loaded"" [Regression]",1,1,1,1
+298219,188272 : OUTBOUND - TRO MGMT - TRO LINK QUEUES - TRO- Link TTL queue via Transport Outbound card [Regression],1,0,0,0
+298220,188281 : OUTBOUND - TRO MGMT - TRO - receive SDBL012 SendCustomsStatusMessage_OK response  [Regression],0,0,0,0
+298221,188331 : OUTBOUND - ORDER MGMT - call Document Matrix after outbound status change [Regression],0,0,0,0
+298222,188332 : OUTBOUND - ORDER MGMT - send SDBL013 message after outbound picked status (non-export) [Regression],0,0,0,0
+298223,188334 : OUTBOUND - ORDER MGMT -  release retention for customs operation and send SDBL013 message[Regression],0,0,0,0
+298224,188338 : OUTBOUND - ORDER MGMT - send SDBL023 message after outbound status is set to cancelled by LB2S [Regression],0,0,0,0
+298225,177603 : OUTBOUND - EDI ORDER & PPLCON - A PPLCON PACK [Regression],35,0,0,0
+298226,177418 : OUTBOUND - ORDER MGMT - Book back Orderlines [Regression],17,2,9,2
+298227,177427 : OUTBOUND - ORDER MGMT - Perform a cut off for an order - Cut Off Screen [Regression],0,0,0,0
+298228,"188358 : OUTBOUND - LAUNCH PICKING - WCS041,PICKQUEUEINFO (picking todo)[Regression]",2,0,0,0
+298229,177456 : OUTBOUND - PIECE PICKING - Open a queue group of an order with Item Picture [Regression],0,0,0,0
+298230,177448 : OUTBOUND - PIECE PICKING - Open a queue group of an order with picking comments [Regression],0,0,0,0
+298231,177457 : OUTBOUND - PIECE PICKING - Scan Serial Numbers during PP [Regression],0,0,0,0
+298232,188365 : OUTBOUND - PIECE PICKING - CLOSEPICKHOLDER (pallet full)[Regression],2,0,0,0
+298233,177451 : OUTBOUND - PIECE PICKING - Perform piece picking from fixed pick location [Regression],11,1,3,1
+298234,177453 : OUTBOUND - PIECE PICKING - Perform PP from a receiving location [Regression],0,0,0,0
+298235,177524 : OUTBOUND - FULL BOX PICKING - Open a queue group of an order with Picking Comments [Regression],0,0,0,0
+298236,177565 : OUTBOUND - FHP - Perform FHP from receiving location [Regression],5,0,1,0
+298237,189951 : OUTBOUND - PACKING - POWER PACKING -CONFIRM PICKHOLDER - Call document matrix [Regression],0,0,0,0
+298238,189954 : OUTBOUND - PACKING - POWER PACKING -CONFIRM PICKHOLDER - call DOEX functionality (upload pack list and save GUID) - [Regression],0,0,0,0
+298239,177574 : OUTBOUND - PACKING - Scan pickholder [Regression],49,9,26,9
+298240,189988 : OUTBOUND - PACKING - STYRA EXECUTE PACKING - Scan a packing table - [Regression],0,0,0,0
+298241,189968 : OUTBOUND - PACKING - STYRA EXECUTE PACKING -CONFIRM PICKHOLDER - call Document Matrix [Regression],0,0,0,0
+298242,189971 : OUTBOUND - PACKING - STYRA EXECUTE PACKING -CONFIRM PICKHOLDER - call DOEX functionality (upload pack list and save GUID)[Regression],0,0,0,0
+298243,189974 : OUTBOUND - PACKING - STYRA EXECUTE PACKING -CONFIRM PICKHOLDER - print Centiro shipping label to printer and save in EDOC [Regression],0,0,0,0
+298244,179876 : OUTBOUND - TTL - Supper TTL - TRO [Regression],0,0,0,0
+298245,179878 : OUTBOUND - TTL - Perform a TTL [Regression],15,2,8,2
+298246,188296 : OUTBOUND - LOADING - SCAN A TRO RF - Scan a non-existing TRO rf [Regression],1,0,0,0
+298247,188313 : OUTBOUND - LOADING  -  WCS110 (confirm loading)[Regression],0,0,0,0
+298248,181683 : MASTER DATA - ITEMS - Item  - Search [Regression],0,0,0,0
+298249,181691 : MASTER DATA - ITEMS - Item  - Count [Regression],0,0,0,0
+298250,181693 : MASTER DATA - ITEMS - Item  - Correct Items [Regression],0,0,0,0
+298251,181695 : MASTER DATA - ITEMS - Item  - Print [Regression],0,0,0,0
+298252,181595 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Pallet Pattern [Regression],0,0,0,0
+298253,181598 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Pick Frequency [Regression],0,0,0,0
+298254,188007 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - MANIPULATION - Change Custom Fields [Regression],0,0,0,0
+298255,181602 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Workpost [Regression],0,0,0,0
+298256,181605 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Stock by Country of Origin for this Model [Regression],0,0,0,0
+298257,188002 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - MANIPULATION - Change Holder measures [Regression],5,4,4,4
+298258,181524 : MASTER DATA - ITEMS - MANAGEMENT - REPORT - Odette Label [Regression],0,0,0,0
+298259,181275 : MASTER DATA - LOCATION - Generate Locations [Regression],3,0,0,0
+298260,180629 : MASTER DATA - LOCATION - MANAGEMENT - Cluster [Regression],0,0,0,0
+298261,180632 : MASTER DATA - LOCATION - MANAGEMENT - Edit Check Digit Manual [Regression],0,0,0,0
+298262,180601 : MASTER DATA - LOCATION - ACTION - Print Location Label [Regression],0,0,0,0
+298263,180604 : MASTER DATA - LOCATION - ACTION - Upload Parameters per Process [Regression],0,0,0,0
+298264,180619 : MASTER DATA - LOCATION - REPORTS - Print Picking Route [Regression],0,0,0,0
+298265,180647 : MASTER DATA - LOCATION - CLUSTER - Edit [Regression],0,0,0,0
+298266,180649 : MASTER DATA - LOCATION - CLUSTER - Count [Regression],0,0,0,0
+298267,181194 : MASTER DATA - LOCATION - PHYSICAL TYPE - Search [Regression],0,0,0,0
+298268,181184 : MASTER DATA - LOCATION - PHYSICAL TYPE - ACTIONS - Location Type - Location Structure [Regression],0,0,0,0
+298269,181186 : MASTER DATA - LOCATION - PHYSICAL TYPE - ACTIONS - Location Type - Generate Locations [Regression],0,0,0,0
+298270,181205 : MASTER DATA - LOCATION - PICKZONE - Delete [Regression],0,0,0,0
+298271,181224 : MASTER DATA - LOCATION - FILLING RATE - Delete [Regression],0,0,0,0
+298272,181241 : MASTER DATA - LOCATION - FILLING RATE - RULES - Edit List [Regression],0,0,0,0
+298273,181232 : MASTER DATA - LOCATION - FILLING RATE - TYPE ITEM - Create [Regression],0,0,0,0
+298274,181234 : MASTER DATA - LOCATION - FILLING RATE - TYPE ITEM - Delete [Regression],0,0,0,0
+298275,177127 : STYRA - Select Next Work [Regression],0,0,0,0
+298276,177125 : STYRA - Returns [Regression],0,0,0,0
+298277,177124 : STYRA - Picking [Regression],149,0,6,0
+298278,190054 : SETUP - EDIT ITEM & LOT -  Insert item [Regression],26,0,0,0
+298279,190056 : SETUP - EDIT ITEM & LOT - delete item[Regression],0,0,0,0
+298280,188019 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - HOLDER - Card[Regression],0,0,0,0
+298281,188035 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - ALL - Count [Regression],0,0,0,0
+298282,188037 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - ALL - Upload Preprinted Holders[Regression],0,0,0,0
+298283,188149 : STOCK MGMT - IRREGULARITY - CLOSE IRREGULARITY - Close Stock Irregularity[Regression],0,0,0,0
+298284,188175 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT PLAN -  Delete Plan[Regression],0,0,0,0
+298285,188180 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Skucount Holder [Regression],37,0,36,0
+298286,188191 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA -  Skurecount Item[Regression],0,0,0,0
+298287,262480 : OUTBOUND - LOADING - BOOK LOADIING LOCATION [Regression],7,0,2,0
+298288,262481 : OUTBOUND - LOADING - BOOK BACK LOADING [Regression],3,0,2,0
+298289,262496 : STOCK MGMT - REPLENISHMENT- AUTOMATIC CREATION [Regression],1,0,0,0
+298290,262497 : STOCK MGMT - REPLENISHMENT- BOOK BACK [Regression],1,0,0,0
+298291,262501 : STOCK MGMT - REPLENISHMENT- CREATE WAVE [Regression],4,0,0,0
+298293,274250 : STOCK MGMT - Inspection - Create [Regression],2,0,0,0
+298294,279033 : CMS - OUTBOUND [Regression],31,0,0,0
+298295,279036 : CMS - INBOUND [Regression],12,0,0,0
+298296,279082 : CMS - MANIPULATION [Regression],12,0,0,0
+298297,279114 : DATAPORT [Regression],139,0,0,0
+298298,288425 : INBOUND - EDI ASN&RECCON -INCOMING EDI IFTMBF - MODIFY[Regression],8,0,0,0
+298299,288775 : OUTBOUND - EDI ORDER & PPLCON - A ORDER  [Regression],5,0,0,0
+298300,288796 : OUTBOUND - ORDER MGMT -  release retention [Regression],3,0,0,0
+298301,288904 : OUTBOUND - TRO MGMT -  TRO - Request Customs Documents and send SDBL009 [Regression],1,0,0,0
+298302,288922 : STOCK MGMT - STOCK MANIPULATIONS - RF WEIGHING -Weighing Pallets [Regression],0,0,0,0
+298303,289917 : OUTBOUND - PACKING - Scan a holder with wrong status [Regression],1,0,0,0
+298304,290069 : OUTBOUND - TRO MGMT- REPORTS [Regression],3,0,0,0
+298311,180669 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Change Max 1 Lot No [Regression],0,0,0,0
+298314,181169 : MASTER DATA - LOCATION - CLUSTER - MANAGEMENT - Holder - Card [Regression],0,0,0,0
+298320,180670 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Change Max Blocking [Regression],0,0,0,0
+298327,181488 : MASTER DATA - UNITS - UNIT MANAGEMENT - VIEW  - List [Regression],0,0,0,0
+298331,181486 : MASTER DATA - UNITS - UNIT MANAGEMENT - VIEW  - EDI receive log [Regression],0,0,0,0
+298332,CONSOLIDATION,0,0,0,0
+298335,187641 : INBOUND - TRI MGMT - TRI - received SDBL012 [Regression],0,0,0,0
+298336,180277 : INBOUND - TRI MANAGEMENT - Delete selected TRI's [Regression],2,0,1,0
+298337,180282 : INBOUND - TRI MANAGEMENT - Display List TRI's [Regression],0,0,0,0
+298338,180284 : INBOUND - TRI MANAGEMENT - Print SN LABEL for selected expected items [Regression],0,0,0,0
+298339,180287 : INBOUND - TRI MANAGEMENT - Print Expected Holders [Regression],0,0,0,0
+298340,180291 : INBOUND - TRI MANAGEMENT - Difference Inbound Deliveries [Regression],0,0,0,0
+298341,180299 : INBOUND - TRI MANAGEMENT - EDI Send Log [Regression],0,0,0,0
+298342,180302 : INBOUND - TRI MANAGEMENT - Origin/dest - Holder/Stock list [Regression],0,0,0,0
+298343,180305 : INBOUND - TRI MANAGEMENT - Consumers > Book expected lines [Regression],0,0,0,0
+298344,180308 : INBOUND - TRI MANAGEMENT - reprint holders [Regression],0,0,0,0
+298345,188738 : TRI MGMT - TRI - Transport - Transport Inbound Status - Set Status: Cancelled [Regression],3,1,2,1
+298346,188741 : TRI MGMT - TRI - Transport - View Linked Inbound Deliveries[Regression],17,7,8,7
+298347,180401 : INBOUND - TRI MANAGEMENT- REPORTS - TRB Frontpage [Regression],0,0,0,0
+298348,180411 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Check Dischargers [Regression],6,1,2,1
+298349,180418 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Close Inbound Deliveries [Regression],0,0,0,0
+298350,180422 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Schedule 'XDOCK Create Orders Task' [Regression],0,0,0,0
+298351,180424 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - ValidateAndCloseTRI [Regression],49,1,11,1
+298352,180440 : INBOUND - TRI MANAGEMENT- IN STOCK - delete [Regression],1,0,0,0
+298353,180445 : INBOUND - TRI MANAGEMENT- IN STOCK - Book Back Selected Records [Regression],3,0,2,0
+298354,180449 : INBOUND - TRI MANAGEMENT- IN STOCK - Upload Stock [Regression],0,0,0,0
+298355,180452 : INBOUND - TRI MANAGEMENT- IN STOCK - Show Booking Error [Regression],0,0,0,0
+298356,180455 : INBOUND - TRI MANAGEMENT- IN STOCK - Holder / Stock List [Regression],0,0,0,0
+298357,180458 : INBOUND - TRI MANAGEMENT- IN STOCK - Print Holder Label [Regression],0,0,0,0
+298358,180460 : INBOUND - TRI MANAGEMENT- IN STOCK - Block / Unblock Selected holder [Regression],1,0,1,0
+298359,180487 : INBOUND - TRI MANAGEMENT- EXPECTED - SHOW ERROR [Regression],0,0,0,0
+298360,180490 : INBOUND - TRI MANAGEMENT- EXPECTED - BOOK BACK selected [Regression],2,1,1,1
+298361,187648 : INBOUND - TRI MGMT - RF INBOUND VOLVO - Create Xdock Receiving Menu - Discharging Transport[Regression],3,0,0,0
+298362,187651 : INBOUND - TRI MGMT - RF INBOUND VOLVO - Create Xdock Receiving Menu - Print Extra Labels [Regression],0,0,0,0
+298363,180073 : INBOUND - EDI ASN&RECCON -INCOMING EDI ASN - MODIFY [Regression],2,0,0,0
+298364,180075 : INBOUND - EDI ASN&RECCON -INCOMING EDI ASN - WITH TRI MODIFY [Regression],0,0,0,0
+298365,180083 : INBOUND - EDI ASN&RECCON -INCOMING EDI TRI ASN - MODIFY [Regression],0,0,0,0
+298366,180086 : INBOUND - EDI ASN&RECCON - OUTGOING EDI RECON - RECEIPT [Regression],68,0,7,0
+298367,180088 : INBOUND - EDI ASN&RECCON - OUTGOING EDI RECON - RETURN [Regression],2,0,0,0
+298368,180221 : INBOUND - DELIVERY MANAGEMENT - Actions - Manual Close Inbound Delivery [Regression],0,0,0,0
+298369,180223 : INBOUND - DELIVERY MANAGEMENT - Actions - Other - EDI  [Regression],35,0,4,0
+298370,180224 : INBOUND - DELIVERY MANAGEMENT - Reports - Item Label [Regression],0,0,0,0
+298371,180229 : INBOUND - DELIVERY MANAGEMENT - Expected - Count [Regression],0,0,0,0
+298372,180232 : INBOUND - DELIVERY MANAGEMENT - In stock - Delete Line [Regression],0,0,0,0
+298373,180235 : INBOUND - DELIVERY MANAGEMENT - In stock - Holder/Stock List [Regression],0,0,0,0
+298374,187670 : INBOUND - FLASH SALES - RF Flash Sales (Android) [Regression],0,0,0,0
+298375,187664 : INBOUND - RF RECEIVING - Serial numbers management [Regression],0,0,0,0
+298376,187720 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Book back a putaway queue[Regression],0,0,0,0
+298377,187724 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Choose location[Regression],0,0,0,0
+298378,187728 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Confirm putaway to a Scan Holder location [Regression],0,0,0,0
+298379,187736 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Putaway of holder in an empty partition [Regression],0,0,0,0
+298380,187739 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Pick a holder with a putaway queue waiting [Regression],0,0,0,0
+298381,187704 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - SCAN A HOLDER  - scan a stock holder(blocked) at the receiving location [Regression],0,0,0,0
+298382,187760 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF (Android) - Launch Putaway[Regression],0,0,0,0
+298383,187815 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS -  RF ASSEMBLY - Assembly [Regression],40,0,0,0
+298384,187784 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ORDER - book selected records [Regression],0,0,0,0
+298385,187787 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ORDER - add detail for selected line[Regression],0,0,0,0
+298386,187798 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - RESERVATION - Manage Delete line [Regression],0,0,0,0
+298387,187827 : STOCK MGMT - INBOUND STRATEGY - SETUP - Edit [Regression],0,0,0,0
+298388,187849 : STOCK MGMT - INBOUND STRATEGY SEARCH METHOD - Delete line [Regression],0,0,0,0
+298389,187851 : STOCK MGMT - INBOUND STRATEGY SEARCH METHOD - Move Up [Regression],0,0,0,0
+298390,187972 : STOCK MGMT - STOCK - WCS150 (stock picture from WCS per item)/correction [Regression],0,0,0,0
+298391,187975 : STOCK MGMT - STOCK - RF Stock / New Stock (Android) [Regression],0,0,0,0
+298392,188064 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS RF TRANSFER   (ANDROID) - Batch Transfer [Regression],22,5,7,5
+298393,188067 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS RF TRANSFER   (ANDROID) - Transfer Location[Regression],0,0,0,0
+298394,188083 : STOCK MGMT - STOCK MANIPULATIONS - RF INSPECTION - Expect Inspection [Regression],2,1,1,1
+298395,188093 : STOCK MGMT - STOCK SELECTION - VIEW STOCK - Clear Fields [Regression],0,0,0,0
+298396,188096 : STOCK MGMT - STOCK SELECTION - VIEW STOCK - Stock [Regression],0,0,0,0
+298397,188099 : STOCK MGMT - STOCK SELECTION - VIEW STOCK - Upload Preprinted Holders [Regression],0,0,0,0
+298398,"188114 : STOCK MGMT - MANIPULATION - WCS039,HOLDERTRANSFER (Qs putaway/replenish todo)[Regression]",0,0,0,0
+298399,188141 : STOCK MGMT - SERIAL NUMBERS MANAGEMENT - Search [Regression],0,0,0,0
+298400,188153 : STOCK MGMT - IRREGULARITY -  receive SDBL012 FreeToProcessEvent_OK message[Regression],0,0,0,0
+298401,188155 : STOCK MGMT - IRREGULARITY -  get irregularity balance [Regression],0,0,0,0
+298402,188165 : STOCK MGMT - CYCLE COUNT - Launch [Regression],4,0,4,0
+298403,177407 : STOCK MGMT - Holder Retrieval - finish a holder retrieval and replenishment queue in RF - Finish holder retrieval [Regression],0,0,0,0
+298404,177183 : STOCK MGMT - Holder Retrieval - start a picking (teamlead) [Regression],0,0,0,0
+298405,177185 : STOCK MGMT - Holder Retrieval - launch a holder retrieval queue group [Regression],0,0,0,0
+298406,188217 : STOCK MGMT - HOLDER RETRIEVAL - Define an activity matrix [Regression],0,0,0,0
+298407,188248 : OUTBOUND - SERIAL NUMBER MANAGEMENT - Packing - Scan SN During Packing [Regression],0,0,0,0
+298408,"188256 : OUTBOUND - TRO MGMT - CLOSE TRO - Close TRO with status goods ""picked"" [Regression]",1,1,1,1
+298409,188273 : OUTBOUND - TRO MGMT - TRO LINK QUEUES - TRO- Link Loading queue on Transport Outbound card  [Regression],37,9,24,9
+298410,"177589 : OUTBOUND - TRO MGMT - Input Pallet unit type in ""pallet pool"" [Regression]",1,1,1,1
+298411,177592 : OUTBOUND - TRO MGMT - Unlink a TTL when 1 outbound [Regression],0,0,0,0
+298412,177593 : OUTBOUND - TRO MGMT - Unlink loading queue from TRO-card [Regression],26,2,11,2
+298413,188335 : OUTBOUND - ORDER MGMT - receive SDBL012 FreeToProcessEvent_OK message [Regression],0,0,0,0
+298414,177602 : OUTBOUND - EDI ORDER & PPLCON - A PPLCON LOAD [Regression],20,1,1,1
+298415,177421 : OUTBOUND - ORDER MGMT - Modify[Regression],18,0,3,0
+298416,177425 : OUTBOUND - ORDER MGMT - Link queue groups to transport outbounds [Regression],2,0,0,0
+298417,177428 : OUTBOUND - ORDER MGMT - Cutoff Scheduler [Regression],0,0,0,0
+298418,177429 : OUTBOUND - ORDER MGMT - Cutoff Matrix [Regression],0,0,0,0
+298419,"188359 : OUTBOUND - LAUNCH PICKING - WCS091,HOLDERINFORMATION (label, sort out info)[Regression]",0,0,0,0
+298420,177445 : OUTBOUND - PIECE PICKING - Add several piece pickings [Regression],4,0,0,0
+298421,188362 : OUTBOUND - PIECE PICKING - Confirm pick[Regression],95,0,12,0
+298422,177516 : OUTBOUND - FULL BOX PICKING - Assign multiple boxes to the same pick holder [Regression],0,0,0,0
+298423,177519 : OUTBOUND - FULL BOX PICKING - Assign every box to a different pick holder [Regression],0,0,0,0
+298424,177522 : OUTBOUND - FULL BOX PICKING - Perform FB picking from an assembly location [Regression],0,0,0,0
+298425,188370 : OUTBOUND - FULL BOX PICKING - CALL DOCUMENT MATRIX [Regression],0,0,0,0
+298426,188371 : OUTBOUND - FULL HOLDER PICKING - CALL DOCUMENT MATRIX [Regression],4,0,0,0
+298427,189955 : OUTBOUND - PACKING - POWER PACKING -CONFIRM PICKHOLDER - print POWER shipping label to printer[Regression],59,0,0,0
+298428,189957 : OUTBOUND - PACKING - POWER PACKING -CONFIRM PICKHOLDER - print Centiro shipping label to printer and save in EDOC -[Regression],67,0,0,0
+298429,177575 : OUTBOUND - PACKING - Scan a wrong item [Regression],1,1,1,1
+298430,189947 : OUTBOUND - PACKING - AUTOMATED PACKING - Receive WCS100 (Confirm packing) message [Regression],0,0,0,0
+298431,189984 : OUTBOUND - PACKING - STYRA EXECUTE PACKING - PACKING MODULE - Scan a non-existing item [Regression],0,0,0,0
+298432,189969 : OUTBOUND - PACKING - STYRA EXECUTE PACKING -CONFIRM PICKHOLDER - print pack list to printer  [Regression],0,0,0,0
+298433,189972 : OUTBOUND - PACKING - STYRA EXECUTE PACKING -CONFIRM PICKHOLDER - print POWER shipping label to printer [Regression],0,0,0,0
+298434,189992 : OUTBOUND - PACKING - REPACK - Call document matrix - [Regression],16,0,0,0
+298435,179877 : OUTBOUND - TTL - Close a pick holder [Regression],0,0,0,0
+298436,188294 : OUTBOUND - LOADING - SCAN A TRO RF - Scan an open TRO rf [Regression],3,1,1,1
+298437,188307 : OUTBOUND - LOADING - INPUT THE HOLDER BARCODE  - receive an error if you try to load a holder for an outbound for which you have requested documents but have not yet received a reply [Regression],0,0,0,0
+298438,188309 : OUTBOUND - LOADING - INPUT THE HOLDER BARCODE  -  load the last holder of a transport outbound with consolidated outbounds[Regression],0,0,0,0
+298439,178715 : OUTBOUND - LOADING - Batch Loading on Tro [Regression],1,0,1,0
+298440,178716 : OUTBOUND - LOADING - Serial Number [Regression],0,0,0,0
+298441,181677 : MASTER DATA - ITEMS - MANAGEMENT - INCOMING - Modify [Regression],0,0,0,0
+298442,181639 : MASTER DATA - ITEMS - MANAGEMENT - FUNCTIONS - Launch Scan Code [Regression],0,0,0,0
+298443,181641 : MASTER DATA - ITEMS - MANAGEMENT - FUNCTIONS - Copy item to other customer [Regression],0,0,0,0
+298444,181685 : MASTER DATA - ITEMS - Item  - Create [Regression],0,0,0,0
+298445,181698 : MASTER DATA - ITEMS - Item  - Generate Item Code [Regression],0,0,0,0
+298446,181596 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Suppliers [Regression],0,0,0,0
+298447,181599 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Packaging [Regression],0,0,0,0
+298448,181610 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Part of BOM [Regression],0,0,0,0
+298449,188003 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - MANIPULATION - Change Gross Weight[Regression],5,0,3,0
+298450,187999 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - MANIPULATION - Change Unit Holder [Regression],4,4,4,4
+298451,181521 : MASTER DATA - ITEMS - MANAGEMENT - REPORT - Item Config List [Regression],0,0,0,0
+298452,181525 : MASTER DATA - ITEMS - MANAGEMENT - REPORT - EAN13 Label [Regression],0,0,0,0
+298453,181270 : MASTER DATA - LOCATION - Select more [Regression],0,0,0,0
+298454,181274 : MASTER DATA - LOCATION - Count [Regression],0,0,0,0
+298455,181277 : MASTER DATA - LOCATION - Correct location [Regression],0,0,0,0
+298456,180630 : MASTER DATA - LOCATION - MANAGEMENT - Statistics [Regression],0,0,0,0
+298457,180599 : MASTER DATA - LOCATION - ACTION - Holder/Stock List [Regression],0,0,0,0
+298458,180602 : MASTER DATA - LOCATION - ACTION - Print Check Digit Label [Regression],0,0,0,0
+298459,180605 : MASTER DATA - LOCATION - ACTION - Create Multiple Partial Replenishment [Regression],0,0,0,0
+298460,180621 : MASTER DATA - LOCATION - REPORTS - Touched Locations [Regression],0,0,0,0
+298461,180645 : MASTER DATA - LOCATION - CLUSTER - Edit list [Regression],0,0,0,0
+298462,180646 : MASTER DATA - LOCATION - CLUSTER - Delete [Regression],0,0,0,0
+298463,180648 : MASTER DATA - LOCATION - CLUSTER - View [Regression],0,0,0,0
+298464,181195 : MASTER DATA - LOCATION - PHYSICAL TYPE - Edit list [Regression],0,0,0,0
+298465,181203 : MASTER DATA - LOCATION - PICKZONE - Edit list [Regression],0,0,0,0
+298466,181222 : MASTER DATA - LOCATION - FILLING RATE - Create [Regression],0,0,0,0
+298467,181223 : MASTER DATA - LOCATION - FILLING RATE - Edit List [Regression],0,0,0,0
+298468,181239 : MASTER DATA - LOCATION - FILLING RATE - RULES - Search[Regression],0,0,0,0
+298469,181242 : MASTER DATA - LOCATION - FILLING RATE - RULES - Edit List [Regression],0,0,0,0
+298470,181231 : MASTER DATA - LOCATION - FILLING RATE - TYPE ITEM - Search [Regression],0,0,0,0
+298471,181500 : MASTER DATA - UNITS - UNIT CUSTOMER MANAGEMENT - Edit [Regression],0,0,0,0
+298472,181493 : MASTER DATA - UNITS - UNIT MANAGEMENT - Create [Regression],0,0,0,0
+298473,181494 : MASTER DATA - UNITS - UNIT MANAGEMENT - Delete [Regression],0,0,0,0
+298474,177121 : STYRA - Move [Regression],0,0,0,0
+298475,177119 : STYRA - Equipment Setup [Regression],0,0,0,0
+298476,188022 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - HOLDER - Resend to Auto Weighing[Regression],0,0,0,0
+298477,188026 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - HOLDER - Print Oddete Label Selected[Regression],0,0,0,0
+298478,188150 : STOCK MGMT - IRREGULARITY - CLOSE IRREGULARITY - Close Blocking Irregularity[Regression],0,0,0,0
+298479,188178 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA -  Create Plan[Regression],22,0,22,0
+298480,188186 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Skurecount Holit [Regression],0,0,0,0
+298481,188189 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA -  Skurecount Holilot[Regression],0,0,0,0
+298482,188192 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA -  Skucount Itlot[Regression],0,0,0,0
+298483,188194 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA -  Skucount Nodedetail[Regression],0,0,0,0
+298484,262477 : SETUP - EDI ITEM & LOT - MATMAS [Regression],1,0,0,0
+298485,262479 : OUTBOUND - FHP - CHANGE PRIO [Regression],1,1,1,1
+298486,262484 : OUTBOUND - TRO MGMT - CREATE [Regression],14,1,2,1
+298487,262489 : PROMESYS - INBOUND [Regression],2,0,0,0
+298488,262491 : PROMESYS - OUTBOUND [Regression],7,0,7,0
+298489,262504 : STOCK MGMT - REPLENISHMENT- EXECUTE REPLENISHMENT - RF ANDROID [Regression],14,0,5,0
+298490,176908 : STYRA - PUTAWAY - Putaway [Regression],55,0,2,0
+298491,262511 : SETUP - WMS GENERAL SETUP [Regression],177,0,17,0
+298492,274137 : OUTBOUND - PIECE PICKING - RELOC - RF ANDROID,20,0,0,0
+298494,274400 : THIRD PARTY - Compass - Packing [Regression],37,0,37,0
+298495,275141 : STYRA - Inspection [Regression],25,0,0,0
+298496,278923 : OUTBOUND - PACKING - RF REPACK [Regression],36,0,0,0
+298498,279098 : CMS - XML [Regression],2,0,0,0
+298500,288501 : INBOUND - TRI MANAGEMENT- IN STOCK - Modify,3,0,0,0
+298501,288869 : OUTBOUND - TRO MGMT -  TRO - Request Customs Documents and send SDBL009 [Regression],4,0,0,0
+298502,289935 : OUTBOUND - TRO MGMT - TRO - Status [Regression],16,0,0,0
+298503,289951 : OUTBOUND - ORDER MGMT- Adjust DN - Volvo Customs [Regression],31,0,0,0
+298504,290396 : SETUP - USERMANAGEMENT,4,0,0,0
+298507,180665 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Change Max 1 Cust [Regression],0,0,0,0
+298508,180667 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Change Max 1 Config [Regression],0,0,0,0
+298520,FLEX LOCATION,13,0,0,0
+298528,CMR,15,1,7,1
+298529,180662 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Regenerate Partitions of this Cluster [Regression],0,0,0,0
+298536,180666 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Change Max 1 Item [Regression],0,0,0,0
+298537,181163 : MASTER DATA - LOCATION - CLUSTER - MANAGEMENT - Visual View [Regression],0,0,0,0
+298546,180279 : INBOUND - TRI MANAGEMENT - Send POD selected TRI(s) [Regression],5,0,0,0
+298547,187638 : INBOUND - TRI MGMT - TRI - created by 4WARD002 [Regression],0,0,0,0
+298548,180281 : INBOUND - TRI MANAGEMENT - Holder/Stock list of selected TRI(s) [Regression],0,0,0,0
+298549,180283 : INBOUND - TRI MANAGEMENT - TRI Sorter application [Regression],0,0,0,0
+298550,180285 : INBOUND - TRI MANAGEMENT -  List expected items [Regression],0,0,0,0
+298551,180288 : INBOUND - TRI MANAGEMENT - Show Linked Holders [Regression],0,0,0,0
+298552,180292 : INBOUND - TRI MANAGEMENT - Discharge allowed [Regression],1,0,1,0
+298553,180297 : INBOUND - TRI MANAGEMENT - Link Campaign [Regression],0,0,0,0
+298554,180303 : INBOUND - TRI MANAGEMENT - Origin/dest - Inbound OrgDes List [Regression],0,0,0,0
+298555,180304 : INBOUND - TRI MANAGEMENT -  Labels [Regression],4,0,0,0
+298556,180306 : INBOUND - TRI MANAGEMENT - add items/sku in the expected card [Regression],0,0,0,0
+298558,180398 : INBOUND - TRI MANAGEMENT- REPORTS - Putaway Order [Regression],0,0,0,0
+298559,180402 : INBOUND - TRI MANAGEMENT- REPORTS - Retrigger CMS Request [Regression],0,0,0,0
+298560,180414 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Check Close Transport [Regression],5,0,0,0
+298561,180417 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Close Transport Inbound [Regression],9,0,2,0
+298562,180419 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Created Assign Inbound Delivery [Regression],0,0,0,0
+298563,180441 : INBOUND - TRI MANAGEMENT- IN STOCK - Book All [Regression],0,0,0,0
+298564,180448 : INBOUND - TRI MANAGEMENT- IN STOCK - Copy Line [Regression],0,0,0,0
+298565,180453 : INBOUND - TRI MANAGEMENT- IN STOCK - Show Putaway Errors [Regression],0,0,0,0
+298566,180456 : INBOUND - TRI MANAGEMENT- IN STOCK - Change 'Custom Field' selected [Regression],0,0,0,0
+298567,180461 : INBOUND - TRI MANAGEMENT- IN STOCK - Count [Regression],0,0,0,0
+298568,180485 : INBOUND - TRI MANAGEMENT- EXPECTED - PRINT EAN LABEL [Regression],0,0,0,0
+298569,180488 : INBOUND - TRI MANAGEMENT- EXPECTED - Upload  [Regression],0,0,0,0
+298570,180491 : INBOUND - TRI MANAGEMENT- EXPECTED - Upload Expected Sku [Regression],1,0,0,0
+298571,187649 : INBOUND - TRI MGMT - RF INBOUND VOLVO - Create Xdock Receiving Menu - Receiving Inbound [Regression],73,0,0,0
+298572,180072 : INBOUND - EDI ASN&RECCON -INCOMING EDI ASN - CREATE [Regression],153,12,20,12
+298573,180216 : INBOUND - DELIVERY MANAGEMENT - Actions - KPI [Regression],0,0,0,0
+298574,180220 : INBOUND - DELIVERY MANAGEMENT - Actions - Change Overrule Overreceipt not Allowed [Regression],0,0,0,0
+298575,180227 : INBOUND - DELIVERY MANAGEMENT - Expected - New Line [Regression],3,0,0,0
+298576,180230 : INBOUND - DELIVERY MANAGEMENT - Expected - Serial Number Label [Regression],0,0,0,0
+298577,180233 : INBOUND - DELIVERY MANAGEMENT - In stock - Card [Regression],0,0,0,0
+298578,180538 : INBOUND - RF RECEIVING - ANDROID - Consumer Non-Retour [Regression],103,5,26,5
+298579,180540 : INBOUND - RF RECEIVING - ANDROID - SSCC Unique [Regression],0,0,0,0
+298580,180544 : INBOUND - RF RECEIVING - ANDROID - Unload Inbound Transport [Regression],0,0,0,0
+298581,180546 : INBOUND - RF RECEIVING - ANDROID - Spare Parts [Regression],27,0,4,0
+298582,"187721 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - WCS039,HOLDERTRANSFER (Qs putaway/replenish todo)[Regression]",0,0,0,0
+298583,187731 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Confirm a putaway [Regression],0,0,0,0
+298584,187734 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Putaway on location with default item[Regression],0,0,0,0
+298585,187737 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Putaway of complete holder[Regression],0,0,0,0
+298586,187705 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - SCAN A HOLDER - Scan a stock holder (not blocked) at the receiving location [Regression],0,0,0,0
+298587,186485 : INBOUND - ASSEMBLY ORDERS - MAIN ORDER - Cancel Qty [Regression],0,0,0,0
+298588,186486 : INBOUND - ASSEMBLY ORDERS - MAIN ORDER -  Cancel Qty All Orderlines [Regression],0,0,0,0
+298589,186489 : INBOUND - ASSEMBLY ORDERS - MAIN ORDER - show error [Regression],0,0,0,0
+298590,186490 : INBOUND - ASSEMBLY ORDERS - MAIN ORDER - Show stock [Regression],0,0,0,0
+298591,187785 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ORDER - cut off[Regression],0,0,0,0
+298592,187799 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - RESERVATION - Reservation - Card[Regression],0,0,0,0
+298593,187801 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - RESERVATION - Reservation -Book back complete selected line(s) [Regression],0,0,0,0
+298594,187811 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ASSEMBLED - Card [Regression],0,0,0,0
+298595,187825 : STOCK MGMT - INBOUND STRATEGY - SETUP - Edit list [Regression],0,0,0,0
+298596,187828 : STOCK MGMT - INBOUND STRATEGY - SETUP - View [Regression],0,0,0,0
+298597,187848 : STOCK MGMT - INBOUND STRATEGY SEARCH METHOD - New line[Regression],0,0,0,0
+298598,187966 : STOCK MGMT - EDI - Outgoing EDI STKBAL [Regression],0,0,0,0
+298599,188065 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS RF TRANSFER   (ANDROID) - Break Super [Regression],3,0,1,0
+298600,188070 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS RF TRANSFER   (ANDROID) - Reverse Picking[Regression],0,0,0,0
+298601,188071 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS RF TRANSFER   (ANDROID) - Item Check [Regression],3,2,2,2
+298602,188089 : STOCK MGMT - STOCK MANIPULATIONS - RF WEIGHING -Single Weighing [Regression],2,0,0,0
+298603,188094 : STOCK MGMT - STOCK SELECTION - VIEW STOCK - Holder Label[Regression],0,0,0,0
+298604,188111 : STOCK MGMT - MANIPULATION - Manipulation - LB2S Header[Regression],1,0,0,0
+298605,188135 : STOCK MGMT - JOURNAL STOCK - Saved Filters [Regression],0,0,0,0
+298606,188142 : STOCK MGMT - SERIAL NUMBERS MANAGEMENT - Count [Regression],0,0,0,0
+298607,188154 : STOCK MGMT - IRREGULARITY - receive SDBL012 SendCustomsStatusMessageOK_OK message [Regression],0,0,0,0
+298608,188167 : STOCK MGMT - CYCLE COUNT -  Item History [Regression],0,0,0,0
+298609,177406 : STOCK MGMT - Holder Retrieval - create a  new batch from type holder retrieval - Create a scheduled task [Regression],0,0,0,0
+298610,177405 : STOCK MGMT - Holder Retrieval - create a  new batch from type holder retrieval- calculate the replenishment for each queue [Regression],0,0,0,0
+298611,177184 : STOCK MGMT - Holder Retrieval - add queues to a batch [Regression],0,0,0,0
+298612,188223 : STOCK MGMT - REPLENISHMENT- RF Replenishment -  manually request replenishment [Regression],1,0,0,0
+298613,"188224 : STOCK MGMT - REPLENISHMENT- Launch replenishment queue group - WCS039,HOLDERTRANSFER (holder transfer info (pick zones todo)  [Regression]",0,0,0,0
+298614,176075 : STYRA - Execute Replenishment [Regression],18,0,0,0
+298615,177586 : OUTBOUND - TRO MGMT - Close TRO [Regression],36,10,13,10
+298616,"188255 : OUTBOUND - TRO MGMT - CLOSE TRO - Close TRO with status goods ""reserved"" [Regression]",1,1,1,1
+298617,"188258 : OUTBOUND - TRO MGMT - CLOSE TRO -  Close TRO with status goods ""packed""[Regression]",0,0,0,0
+298618,188282 : OUTBOUND - TRO MGMT - TRO - Send SDBL007 when Time Arrived of TRO is filled in [Regression],0,0,0,0
+298619,"177590 : OUTBOUND - TRO MGMT - Input number of pallets in ""pallet pool"" [Regression]",0,0,0,0
+298620,177591 : OUTBOUND - TRO MGMT - Link Reserved Outbound to TRO [Regression],1,0,0,0
+298621,188333 : OUTBOUND - ORDER MGMT - send SDBL013 message after outbound packed status (export) [Regression],0,0,0,0
+298622,188337 : OUTBOUND - ORDER MGMT -  receive SDBL012 SendCustomsStatusMessage_OK message[Regression],0,0,0,0
+298623,177607 : OUTBOUND - ORDER MGMT- Insert standard EDI msg with all required information [Regression],171,10,11,10
+298624,177417 : OUTBOUND - ORDER MGMT - Cancel order [Regression],17,2,8,2
+298625,177419 : OUTBOUND - ORDER MGMT - Change transporter of an order [Regression],1,0,1,0
+298626,177423 : OUTBOUND - ORDER MGMT - Book an outbound order via the outbound card [Regression],12,1,3,1
+298627,177426 : OUTBOUND - ORDER MGMT - Perform a cut off for an order - outbound card [Regression],17,0,1,0
+298628,177446 : OUTBOUND - PIECE PICKING - Multi-order Picking[Regression],2,0,0,0
+298629,177449 : OUTBOUND - PIECE PICKING - Select an alternative unit [Regression],0,0,0,0
+298630,188363 : OUTBOUND - PIECE PICKING - WCS080 (picking done/skipped)[Regression],0,0,0,0
+298631,177454 : OUTBOUND - PIECE PICKING - Perform PP from an assembly location [Regression],0,0,0,0
+298632,177517 : OUTBOUND - FULL BOX PICKING - Change holder unit [Regression],0,0,0,0
+298633,177518 : OUTBOUND - FULL BOX PICKING - Pick a Multi Order Box Picking queue (PP queue) [Regression],1,0,0,0
+298634,177520 : OUTBOUND - FULL BOX PICKING - Perform FB picking from a stock location [Regression],37,0,0,0
+298635,177523 : OUTBOUND - FULL BOX PICKING - Perform FB picking from a receiving location [Regression],0,0,0,0
+298636,177563 : OUTBOUND - FHP - Perform FHP from stock location [Regression],84,0,42,0
+298637,189952 : OUTBOUND - PACKING - POWER PACKING -CONFIRM PICKHOLDER - Print pack list to printer[Regression],4,0,0,0
+298638,189953 : OUTBOUND - PACKING - POWER PACKING -CONFIRM PICKHOLDER - Print pack list to EDOC and sent to external system [Regression],0,0,0,0
+298639,189958 : OUTBOUND - PACKING - POWER PACKING -CONFIRM PICKHOLDER - print Centiro shipping label and send to external system with HolderInformation message[Regression],0,0,0,0
+298640,177576 : OUTBOUND - PACKING - Scan an non-existing item [Regression],9,1,1,1
+298641,189946 : OUTBOUND - PACKING - AUTOMATED PACKING - Receive WCS082 (Receive weight) message [Regression],0,0,0,0
+298642,189975 : OUTBOUND - PACKING - STYRA EXECUTE PACKING -CONFIRM PICKHOLDER - print Centiro shipping label and send to external system with HolderInformation message[Regression],0,0,0,0
+298643,177570 : OUTBOUND - LOADING - Input the number plate rf[Regression],2,2,2,2
+298644,181676 : MASTER DATA - ITEMS - MANAGEMENT - INCOMING - Create [Regression],0,0,0,0
+298645,181682 : MASTER DATA - ITEMS - Outgoing EDI ITECON [Regression],0,0,0,0
+298646,181640 : MASTER DATA - ITEMS - MANAGEMENT - FUNCTIONS - Copy item to same customer [Regression],0,0,0,0
+298647,181694 : MASTER DATA - ITEMS - Item  - Pick Frequenty [Regression],0,0,0,0
+298648,181696 : MASTER DATA - ITEMS - Item  - Item Size Detail [Regression],0,0,0,0
+298649,181592 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Barcode [Regression],0,0,0,0
+298650,181594 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Default locations [Regression],0,0,0,0
+298651,181597 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Statistics [Regression],0,0,0,0
+298652,188008 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - MANIPULATION - Change Type Mover[Regression],4,0,4,0
+298653,181603 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Logging [Regression],0,0,0,0
+298654,181604 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Comment [Regression],0,0,0,0
+298655,181606 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - Stock by Country of Origin for ALL Models [Regression],0,0,0,0
+298656,188004 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - MANIPULATION - Block/Unblock holder[Regression],18,0,15,0
+298657,181612 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - EDI Receive Log [Regression],0,0,0,0
+298658,181522 : MASTER DATA - ITEMS - MANAGEMENT - REPORT - Item Fiche [Regression],0,0,0,0
+298659,181527 : MASTER DATA - ITEMS - MANAGEMENT - REPORT - UPC Label [Regression],0,0,0,0
+298660,181272 : MASTER DATA - LOCATION - Manage edit [Regression],0,0,0,0
+298661,180634 : MASTER DATA - LOCATION - MANAGEMENT - Destination Group [Regression],1,0,0,0
+298662,180600 : MASTER DATA - LOCATION - ACTION - Correct Pickup and Drop Locations [Regression],0,0,0,0
+298663,180603 : MASTER DATA - LOCATION - ACTION - Upload Pickwave SortNo [Regression],0,0,0,0
+298664,180606 : MASTER DATA - LOCATION - ACTION - Saved Filters [Regression],0,0,0,0
+298665,180617 : MASTER DATA - LOCATION - REPORTS - Location Capacity Overruled [Regression],0,0,0,0
+298666,180618 : MASTER DATA - LOCATION - REPORTS - Blocked Location List [Regression],0,0,0,0
+298667,180643 : MASTER DATA - LOCATION - CLUSTER - Search [Regression],0,0,0,0
+298668,181193 : MASTER DATA - LOCATION - PHYSICAL TYPE - Create [Regression],0,0,0,0
+298669,181185 : MASTER DATA - LOCATION - PHYSICAL TYPE - ACTIONS - Location Type - Location Conversion [Regression],0,0,0,0
+298670,181187 : MASTER DATA - LOCATION - PHYSICAL TYPE - ACTIONS - Location Type - Show Locations [Regression],0,0,0,0
+298671,181206 : MASTER DATA - LOCATION - PICKZONE - Count [Regression],0,0,0,0
+298672,181221 : MASTER DATA - LOCATION - FILLING RATE - Search [Regression],0,0,0,0
+298673,181240 : MASTER DATA - LOCATION - FILLING RATE - RULES - Create [Regression],0,0,0,0
+298674,176153 : STYRA - Consolidation [Regression],0,0,0,0
+298675,181233 : MASTER DATA - LOCATION - FILLING RATE - TYPE ITEM - Edit list [Regression],0,0,0,0
+298676,177129 : STYRA - Work setup [Regression],0,0,0,0
+298677,181499 : MASTER DATA - UNITS - UNIT CUSTOMER MANAGEMENT - Create [Regression],0,0,0,0
+298678,177128 : STYRA - Sorting [Regression],0,0,0,0
+298679,181492 : MASTER DATA - UNITS - UNIT MANAGEMENT - Search [Regression],0,0,0,0
+298680,190057 : SETUP - EDIT ITEM & LOT - Modify Item - Insert/Modify picture [Regression],0,0,0,0
+298681,188020 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - HOLDER - Statistics [Regression],0,0,0,0
+298682,188024 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - HOLDER - Print Holder Label[Regression],3,0,0,0
+298683,188034 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - ALL - Saved Filters [Regression],0,0,0,0
+298684,188174 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT PLAN - Create Plan [Regression],2,0,0,0
+298685,188181 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA -  Globalcount holder[Regression],0,0,0,0
+298686,188183 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Skucount Holit [Regression],0,0,0,0
+298687,188187 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Globalrecount Holit [Regression],0,0,0,0
+298688,188190 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA -  Skucount Item[Regression],0,0,0,0
+298689,188193 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Skurecount Itlot [Regression],0,0,0,0
+298690,262475 : INVRPT - Inventory Report [Regression],2,0,0,0
+298691,262483 : OUTBOUND - PIECE PICKING - LABEL PICKING [Regression],2,0,0,0
+298692,262488 : OUTBOUND - TRO MGMT - MASS CREATION TOOL [Regression],3,0,0,0
+298694,262492 : REPORTING - SERVICES [Regression],39,0,0,0
+298695,262495 : REPORTING - QLIKVIEW [Regression],1,0,0,0
+298696,274255 : STOCK MGMT - Inspection - Execute [Regression],0,0,0,0
+298697,274401 : THIRD PARTY - Compas - Loading [Regression],11,0,11,0
+298698,288423 : INBOUND - EDI ASN&RECCON -INCOMING EDI IFTMBF - CREATE[Regression],7,0,0,0
+298699,288458 : INBOUND - TRI MANAGEMENT -  Transport Inbound [Regression],33,0,0,0
+298700,288510 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - REOPEN MANIPULATION,2,0,0,0
+298701,288725 : SETUP - Outbound - Xdock Split Order List - POWXDockSplitOrderList [Regression],39,0,0,0
+298702,288908 : OUTBOUND - FHP - Xdock Move [Regression],11,0,0,0
+298703,289930 : TRO MGMT - LOBAS - Perform a LOBAS without unlinking [Regression],1,0,0,0
+298704,289944 : OUTBOUND - TRO MGMT -  TRO - Request Volvo Customs Documents and send SDBL009 [Regression],8,0,0,0
+298709,180664 : MASTER DATA - LOCATION - CLUSTER - ACTIONS - Change Capacity on Location Is x [Regression],0,0,0,0
+298717,STKADJ,24,0,0,0
+298726,187640 : INBOUND - TRI MGMT - TRI - receive 4WARD004 [Regression],0,0,0,0
+298727,180278 : INBOUND - TRI MANAGEMENT -  Print expected superholders of selected TRI(s) [Regression],6,0,0,0
+298729,180301 : INBOUND - TRI MANAGEMENT - Tracking - Logging [Regression],0,0,0,0
+298730,188739 : TRI MGMT - TRI - Transport - Transport Inbound Status - Set Status: Not Arrived [Regression],4,1,2,1
+298731,188742 : TRI MGMT - TRI - Transport - View Assigned Stock/ID[Regression],0,0,0,0
+298732,180412 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Assign Inbound Delivery [Regression],12,0,1,0
+298733,180415 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Check Over Receipt [Regression],0,0,0,0
+298734,180420 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - RegisterSerialNumber [Regression],0,0,0,0
+298735,180438 : INBOUND - TRI MANAGEMENT- IN STOCK - overview [Regression],1,0,1,0
+298736,180446 : INBOUND - TRI MANAGEMENT- IN STOCK - Create from expected [Regression],9,0,2,0
+298737,180451 : INBOUND - TRI MANAGEMENT- IN STOCK - View Queue Instruction [Regression],0,0,0,0
+298738,180483 : INBOUND - TRI MANAGEMENT- EXPECTED - CREATE new Line [Regression],10,0,1,0
+298739,180486 : INBOUND - TRI MANAGEMENT- EXPECTED - PRINT ODETTE LABEL [Regression],0,0,0,0
+298740,180489 : INBOUND - TRI MANAGEMENT- EXPECTED - BOOK ALL [Regression],3,0,1,0
+298741,187652 : INBOUND - TRI MGMT - RF INBOUND VOLVO - Create Xdock Receiving Menu - Book Back Holder [Regression],2,0,0,0
+298742,180074 : INBOUND - EDI ASN&RECCON -INCOMING EDI ASN - WITH TRI CREATE [Regression],0,0,0,0
+298743,180082 : INBOUND - EDI ASN&RECCON -INCOMING EDI TRI ASN - CREATE[Regression],0,0,0,0
+298744,180089 : INBOUND - EDI ASN&RECCON - OUTGOING EDI RECON - RETURN CLOSE [Regression],0,0,0,0
+298745,180209 : INBOUND - DELIVERY MANAGEMENT - Actions - Delete [Regression],5,0,4,0
+298746,180218 : INBOUND - DELIVERY MANAGEMENT - Actions - EDI Receive Log [Regression],0,0,0,0
+298747,180228 : INBOUND - DELIVERY MANAGEMENT - Expected - Delete Line [Regression],3,0,0,0
+298748,180236 : INBOUND - DELIVERY MANAGEMENT - In stock - Count [Regression],0,0,0,0
+298749,180541 : INBOUND - RF RECEIVING - ANDROID - SSCC Not Unique [Regression],0,0,0,0
+298750,187725 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Confirm putaway to a FIFO location[Regression],0,0,0,0
+298751,187729 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Scan holder RF [Regression],0,0,0,0
+298752,187732 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Autoshift a holder with a putaway queue waiting[Regression],0,0,0,0
+298753,187735 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Putaway of incomplete holder[Regression],0,0,0,0
+298754,187738 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF - Putaway of an holder in empty cluster[Regression],0,0,0,0
+298755,187761 : STOCK MGMT - PUTAWAY -REV PICK - PUTAWAY RF (Android) - Scan location[Regression],0,0,0,0
+298756,187782 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ORDER - Book all [Regression],0,0,0,0
+298757,187808 : STOCK MGMT - ASSEMBLY ORDERS AND CARDS - ASSEMBLED - Manage Refresh[Regression],0,0,0,0
+298758,187823 : STOCK MGMT - INBOUND STRATEGY - SETUP -Search [Regression],0,0,0,0
+298759,187826 : STOCK MGMT - INBOUND STRATEGY - SETUP - Delete [Regression],0,0,0,0
+298760,187830 : STOCK MGMT - INBOUND STRATEGY - SETUP - Search Strategy [Regression],0,0,0,0
+298761,187973 : STOCK MGMT - STOCK - WCS151 (stock picture from Power to WCS) [Regression],0,0,0,0
+298762,187990 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - Holder Stock List - Search [Regression],1,0,0,0
+298763,188068 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS RF TRANSFER   (ANDROID) - Transfer Fixed Location[Regression],3,1,2,1
+298764,188081 : STOCK MGMT - STOCK MANIPULATIONS - RF INSPECTION - Ask Inspection [Regression],2,1,1,1
+298765,188097 : STOCK MGMT - STOCK SELECTION - VIEW STOCK - Create Holder [Regression],0,0,0,0
+298766,188109 : STOCK MGMT - MANIPULATION - Manipulation - New Stock[Regression],4,2,2,2
+298767,188112 : STOCK MGMT - MANIPULATION - Manipulation - Correction on qty [Regression],10,7,7,7
+298768,"188116 : STOCK MGMT - MANIPULATION - WCS030 (confirm transfer holder, Qs putaway/replenish Done)[Regression]",0,0,0,0
+298769,188137 : STOCK MGMT - JOURNAL STOCK - Count [Regression],0,0,0,0
+298770,204439 : STOCK MGMT - IRREGULARITY - auto create & close irregularity [Regression],29,0,3,0
+298771,188168 : STOCK MGMT - CYCLE COUNT -  Location History [Regression],1,0,1,0
+298772,177408 : STOCK MGMT - Holder Retrieval - finish a holder retrieval and replenishment queue in RF - finish replenishment via messaging [Regression],0,0,0,0
+298773,177186 : STOCK MGMT - Holder Retrieval - define priorities on the waves [Regression],0,0,0,0
+298774,188247 : OUTBOUND - SERIAL NUMBER MANAGEMENT - Picking - Scan SN During Picking  [Regression],0,0,0,0
+298775,177605 : OUTBOUND - TRO MGMT - CLOSE TRO - EDI ORDER & PPLCON - Tro Closed [Regression],6,0,0,0
+298776,188271 : OUTBOUND - TRO MGMT - TRO LINK QUEUES -  TRO - Assign destination group [Regression],0,0,0,0
+298777,188278 : OUTBOUND - TRO MGMT -  TRO - Request Customs Documents and send SDBL015[Regression],0,0,0,0
+298778,188279 : OUTBOUND - TRO MGMT - TRO - receive SDBL012 FreeToProcessResponse_OK response  [Regression],0,0,0,0
+298779,177588 : OUTBOUND - TRO MGMT - Assign listed destination group to the TRO [Regression],0,0,0,0
+298780,177420 : OUTBOUND - ORDER MGMT - Create multi-order queue group [Regression],0,0,0,0
+298781,177424 : OUTBOUND - ORDER MGMT - Booking scheduler [Regression],1,0,0,0
+298782,177455 : OUTBOUND - PIECE PICKING - Open a queue group of an order with item comments [Regression],0,0,0,0
+298783,177450 : OUTBOUND - PIECE PICKING - Change the configuration unit [Regression],0,0,0,0
+298784,177452 : OUTBOUND - PIECE PICKING - Perform PP from stock location [Regression],2,0,1,0
+298785,177515 : OUTBOUND - FULL BOX PICKING - Assign every box to a different stockholder [Regression],20,0,0,0
+298786,177521 : OUTBOUND - FULL BOX PICKING - Perform FB picking from a fixed pick location [Regression],0,0,0,0
+298787,177572 : OUTBOUND - PACKING + LOADING - Scan to a location dedicated to the transporter [Regression],0,0,0,0
+298788,189956 : OUTBOUND - PACKING - POWER PACKING -CONFIRM PICKHOLDER - print POWER shipping label and send to external system with HolderInformation message[Regression],0,0,0,0
+298789,177122 : OUTBOUND - PACKING - STYRA EXECUTE PACKING - PACKING MODULE  - Scan a wrong item [Regression],0,0,0,0
+298790,189970 : OUTBOUND - PACKING - STYRA EXECUTE PACKING -CONFIRM PICKHOLDER - print pack list to EDOC and send to external system [Regression],0,0,0,0
+298791,189973 : OUTBOUND - PACKING - STYRA EXECUTE PACKING -CONFIRM PICKHOLDER - print POWER shipping label and send to external system with HolderInformation message [Regression],0,0,0,0
+298792,188295 : OUTBOUND - LOADING - SCAN A TRO RF - Scan a closed TRO rf [Regression],2,1,1,1
+298793,188308 : OUTBOUND - LOADING - INPUT THE HOLDER BARCODE  -  load the last holder of an unconsolidated outbound[Regression],0,0,0,0
+298794,178713 : OUTBOUND - LOADING - Assemble TRO [Regression],0,0,0,0
+298795,178714 : OUTBOUND - LOADING - GTRO Loading [Regression],0,0,0,0
+298796,178717 : OUTBOUND - LOADING - Unloading [Regression],20,2,13,2
+298797,181637 : MASTER DATA - ITEMS - MANAGEMENT - FUNCTIONS - Wysiwys [Regression],0,0,0,0
+298798,181690 : MASTER DATA - ITEMS - Item  - Delete [Regression],0,0,0,0
+298799,181692 : MASTER DATA - ITEMS - Item  - Saved Filters [Regression],0,0,0,0
+298800,181697 : MASTER DATA - ITEMS - Item  - Item Picture List [Regression],0,0,0,0
+298801,188006 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - MANIPULATION - Change Configuration[Regression],5,0,5,0
+298802,181609 : MASTER DATA - ITEMS - MANAGEMENT - ITEM - BOM [Regression],0,0,0,0
+298803,181269 : MASTER DATA - LOCATION - Search [Regression],0,0,0,0
+298804,181271 : MASTER DATA - LOCATION - Manage view [Regression],1,0,0,0
+298805,180631 : MASTER DATA - LOCATION - MANAGEMENT - Open Queues From [Regression],0,0,0,0
+298806,180622 : MASTER DATA - LOCATION - REPORTS -  Item /Return Location Label [Regression],0,0,0,0
+298807,181196 : MASTER DATA - LOCATION - PHYSICAL TYPE - Delete [Regression],0,0,0,0
+298808,181202 : MASTER DATA - LOCATION - PICKZONE - Search [Regression],0,0,0,0
+298809,181204 : MASTER DATA - LOCATION - PICKZONE - Create [Regression],0,0,0,0
+298810,181501 : MASTER DATA - UNITS - UNIT CUSTOMER MANAGEMENT - Delete [Regression],0,0,0,0
+298811,177120 : STYRA - Flows Setup [Regression],0,0,0,0
+298812,190055 : SETUP - EDIT ITEM & LOT - Modify Item - Modify Item fields [Regression],3,0,0,0
+298813,188021 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - HOLDER - Consigned Logging[Regression],0,0,0,0
+298814,188025 : STOCK MGMT - STOCK MANIPULATIONS - STOCK MANIPULATIONS via Power BC - HOLDER STOCK LIST - ACTION - HOLDER - Print Shipping Label[Regression],0,0,0,0
+298815,188179 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Delete Plan [Regression],1,0,1,0
+298816,188182 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Skurecount holder [Regression],17,0,15,0
+298817,188184 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Globalcount Holit [Regression],0,0,0,0
+298818,188188 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - SkucountHolitlot [Regression],0,0,0,0
+298819,188195 : STOCK MGMT - CYCLE COUNT - CYCLE COUNT STYRA - Skurecount Nodedetail [Regression],0,0,0,0
+298820,262474 : EW - Excel Wizard [Regression],833,0,0,0
+298821,262476 : OUTBOUND - LOADING -INPUT THE HOLDER BARCODE [Regression],106,3,8,3
+298822,263645 : BSG - BSO [Regression],3,0,1,0
+298825,275218 : OUTBOUND - EDI ORDER & PPLCON - A PPLCON PICK [Regression],6,0,0,0
+298826,278996 : OUTBOUND - PACKING - RF REPACK - REPORTING PROBLEM [Regression],6,0,0,0
+298827,279002 : OUTBOUND - PACKING - RF REPACK - Extra check [Regression],4,0,0,0
+298828,288548 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Attachment Module Reports [Regression],2,0,0,0
+298829,288797 : OUTBOUND - ORDER MGMT -  change Destination Group [Regression],1,0,0,0
+298830,288827 : OUTBOUND - TRO MGMT - CREATE IFTMBF [Regression],1,0,0,0
+298831,288877 : OUTBOUND - ORDER MGMT -  Volvo Flow [Regression],4,0,0,0
+298833,290389 : PROMESYS - TIME REGISTRATION [Regression],33,0,0,0
+298834,290409 : OTHER - QMS [Regression],1,0,0,0
+298837,298836 : Extra - Comments - Automation [Regression],5,0,0,0
+298846,298845 : Extra - Comments - Automation [Regression],5,0,0,0
+298856,298855 : Extra - Manipulations - Automation [Regression],16,0,0,0
+298867,298866 : Inbound - Putaway - Automation [Regression],71,0,0,0
+298901,298900 : Inbound - Putaway - Interface [Regression],22,0,0,0
+298919,298918 : INBOUND - RF RECEIVING - ANDROID [Regression],25,0,0,0
+298945,298941 : Master data - Item - interface [Regression],25,0,0,0
+298957,298955 : Other - Interface - Automation [Regression],8,0,0,0
+298967,298966 : Outbound - Conveyor - Automation [Regression],102,0,0,0
+299017,299016 : Outbound - Conveyor - Power [Regression],86,0,0,0
+299035,299033 : OUTBOUND - ORDER MGMT - AUTOMATION [Regression],8,0,0,0
+299060,299059 : OUTBOUND - ORDER MGMT - EDI [Regression],11,0,0,0
+299070,299069 : OUTBOUND - ORDER MGMT - INTERFACE [Regression],73,0,0,0
+299097,299096 : OUTBOUND - ORDER MGMT - QG MGMT [Regression],58,0,0,0
+299119,299118 : OUTBOUND - PIECE PICKING - AUTOMATION [Regression],80,0,0,0
+299164,299163 : OUTBOUND - PIECE PICKING - RF ANDROID [Regression],5,0,0,0
+299171,299170 : OUTBOUND - PRECUBING - LOGIVATIONS [Regression],52,0,0,0
+299224,299223 : SETUP - WMS - AUTOMATION [Regression],13,0,0,0
+299236,299235 : SETUP - WMS - POWER [Regression],8,0,0,0
+299250,299249 : STOCKMANAGEMENT - CYCLE COUNT- AUTOMATION [Regression],46,0,0,0
+299280,299279 : STOCK MANAGEMENT - IRREGULARITY - STOCK ADJ-BAL,21,0,0,0
+299295,299293 : STOCK MGMT - MANIPULATION - AUTOMATION [Regression],4,0,0,0
+299303,299302 : STOCK MGMT - MANIPULATION - BLOCKING [Regression],16,0,0,0
+299307,299305 : STOCK MGMT - MANIPULATION - CORRECTION [Regression],2,0,0,0
+299311,299310 : STOCK MGMT - MANIPULATION - INSPECTION [Regression],6,0,0,0
+299319,299318 : STOCK MGMT - MANIPULATION - MANIPULATION [Regression],2,0,0,0
+299324,299323 : STOCK MGMT - MANIPULATION - NEW STOCK [Regression],1,0,0,0
+299327,299326 : STOCK MGMT - MANIPULATION - TRANSFER [Regression],7,0,0,0
+304294,304293 : TRI MGMT - TRI - Transport - Link Nota Fiscal [Regression],5,0,0,0
+304333,304332 : INBOUND - TRI MANAGEMENT- PRE-VALIDATE TRI - Pre-Validate Transport Inbound [Regression],3,0,0,0
+304341,304340 : OUTBOUND - ORDER MGMT - Create order [Regression],10,0,0,0
+304369,304368 : OUTBOUND - TRO MGMT - Request Customs Documents[Regression],4,0,0,0
+304377,304376 : STOCK MGMT - STOCK BALANCE - Stock balance via scheduler [Regression],1,0,1,0
+358761,358760 : OUTBOUND - CONVEYOR - DOCUMENT MANAGEMENT  [Regression],31,0,31,0
+358887,358886 : OUTBOUND - ORDER MGMT - DOGG LABEL [Regression],14,0,0,0
+358997,358996 :  STOCK MGMT - REPLENISHMENT- HOLDER RETRIEVAL [Regression],76,0,1,0
+391553,391466 : OUTBOUND - FULL BOX PICKING -Perform Piece Picking from a Flex Location [Regression],2,0,0,0
+409865,409864 : OUTBOUND - LOADING - GENERATE DELIVERY NOTE  [Regression],1,0,0,0
+429669,429668 : OUTBOUND - ORDER MGMT -P2L [Regression],8,0,0,0
+429678,429676 : OUTBOUND - PACKING - P2L [Regression],3,0,0,0
+460837,460835 : OUTBOUND - PIECE PICKING - AUTOMATION Autostore [Regression],0,0,0,0
+460849,460840 : OUTBOUND - PIECE PICKING - AUTOMATION Geek+ [Regression],1,0,0,0
+460850,460841 : OUTBOUND - PIECE PICKING - AUTOMATION VLM [Regression],0,0,0,0
+488703,488700 : ARD - ARD SETUP [Regression],8,0,0,0
+488704,488701 : ARD - ARD FLOW [Regression],6,0,0,0
+515020,FRW RECEIVING - RETURN RECEIVING,0,0,0,0
+515168,515167 : INBOUND - GENERIC - GENERAL SETTINGS [Regression],1,0,0,0
+515172,515171 : INBOUND - DELIVERY MANAGEMENT - Actions - CREATE [Regression],1,0,0,0
+515179,515178 : INBOUND - DELIVERY MANAGEMENT - Expected - MODIFY [Regression],3,0,0,0
+515204,515202 : INBOUND - TRI MANAGEMENT- ACTIONS - CREATE [Regression],1,0,0,0
+515217,515214 : INBOUND - TRI MANAGEMENT -  LINKING - UNLINKING [Regression],3,0,0,0
+515233,515232 : INBOUND - TRI MANAGEMENT -  CANCEL - Cancel a transport inbound [Regression],1,0,0,0
+515241,515240 : INBOUND - TRI MANAGEMENT -  CANCEL - Cancel a tree after deleting booked stock [Regression],1,0,0,0
+515246,515245 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Check KPI [Regression],2,0,0,0
+515252,515251 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - Check Palletpool [Regression],2,0,0,0
+515288,515287 : INBOUND - TRI MANAGEMENT -  LINKING -link multiple ID's [Regression],1,0,0,0
+515291,515290 : INBOUND - TRI MANAGEMENT -  LINKING -Unlink ID [Regression],1,0,0,0
+515324,515245 : INBOUND - TRI MANAGEMENT- VALIDATE+CLOSE TRI - View Queue Instruction [Regression],3,0,0,0
+515353,515351 : INBOUND - TRI MANAGEMENT - TRI SORTER -Add [Regression],6,0,0,0
+515362,515361 : INBOUND - TRI MANAGEMENT - TRI SORTER -Group [Regression],2,0,0,0
+515364,515363 : INBOUND - TRI MANAGEMENT - TRI SORTER -Print [Regression],1,0,0,0
+515366,515365 : INBOUND - TRI MANAGEMENT - TRI SORTER -Finish [Regression],2,0,0,0
+515373,515372 : INBOUND - TRI MANAGEMENT - TRI SORTER -Calculate [Regression],11,0,0,0
+515386,515385 : INBOUND- GENERIC - RF RECEIVING [Regression],1,0,0,0
+515466,515464 : INBOUND- GENERIC - FRW RECEIVING [Regression],1,0,0,0
+515502,515500 : INBOUND - FRW RECEIVING - DAP - SSCC UNIQUE [Regression],11,0,0,0
+515516,515515 : INBOUND - GENERIC - STYRA - PUTAWAY [Regression],1,0,0,0
+515521,515520 : STYRA - PUTAWAY - Putaway mgmt [Regression],3,0,0,0
+515526,515525 : STYRA - PUTAWAY - RF Android [Regression],20,0,0,0
+515549,515548 : INBOUND - GENERIC - AUTOMATION - EMANAGER [Regression],6,0,0,0
+515561,515560 : AUTOMATION - EMANAGER - PUTAWAY [Regression],34,0,0,0
+515749,515748 : INBOUND - GENERIC - STYRA - RETURNS [Regression],2,0,0,0
+515754,515753 : STYRA - RETURNS - RETURNS MGT - EXPECTED HOLDERS [Regression],2,0,0,0
+515760,515759 : STYRA - RETURNS - RETURNS MGT - LAUNCH [Regression],6,0,0,0
+515769,515768 : STYRA - RETURNS - RETURNS MGT - DELETE [Regression],4,0,0,0
+515778,515776 : STYRA - RETURNS - RETURNS MGT - BOOK BACK[Regression],1,0,0,0
+515783,515782 : STYRA - RETURNS - RF ANDROID[Regression],23,0,0,0
+519433,518965 : THIRD PARTY - MAAS - Packing [Regression],124,0,0,0
