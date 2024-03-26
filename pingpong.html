@@ -3,11 +3,44 @@
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
 	google.charts.load('current', {packages: ['corechart', 'bar']});
-
 	google.charts.load('current', {'packages':['table']});
 	google.charts.setOnLoadCallback(drawTable);
 	google.charts.setOnLoadCallback(drawRightY);
+	google.charts.setOnLoadCallback(drawPie);
+	
+    function drawPie() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Test Suite Design Status');
+        data.addColumn('number', 'Count');
+        data.addRows([
+			['6 times', 1],
+			['5 times', 0],
+			['4 times', 1],
+			['3 times', 5],
+			['2 times', 14],
+			['1 time', 69],
+			['None', 335]
+        ]);
 
+        var options = { 'width':220,
+                       'height':220,
+					   'legend': {'position': 'none',
+					   'alignment': 'center'},
+					   'pieHole': 0.2,
+					   'pieSliceText': 'value',
+					   'chartArea': {
+					      'top': 50,
+						  'left': 50,
+						  'width': '75%',
+						  'height': '75%'
+					   },
+					   'pieSliceTextStyle': { color: 'black' },
+					   'slices': {0: {color: '009CCC'}, 1: {color: '959595'}}};
+
+		var chart = new google.visualization.PieChart(document.getElementById('chart_pie'));
+        chart.draw(data, options);
+      }
+	  
 	function drawRightY() {
 		var data = google.visualization.arrayToDataTable([
 			['', 'Regressions'],
@@ -16,11 +49,15 @@
 			['4 times', 1],
 			['3 times', 5],
 			['2 times', 14],
-			['1 time', 69],
-			['None', 333]
+			['1 time', 69]
 		]);
 
 		var materialOptions = {
+			chart: { 
+				title: 'Ping Pong bugs',
+				subtitle: 'All bugs with at least 1 revert to development of the last 31 days'
+			},
+			width: '400',
 			legend: { position: 'none'},
 			bars: 'horizontal',
 			axes: {
@@ -62,9 +99,19 @@
 			["339556","CGI-001974 - IG UAT  - AUTOSTORE - not possible to scan item during Cycle Count (EL EDB-7089)",3 ]
 		]);
 
+
+		var options = { 
+			width: '700',
+			pageSize: 5,
+			showRowNumber: false,
+			sortColumn: 2,
+			sortAscending: false,
+			alternatingRowStyle: false,
+			cssClassNames: { rowNumberCell1: 'titleCell' }
+		};
 		var table = new google.visualization.Table(document.getElementById('chart_div2'));
 
-		table.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
+		table.draw(data, options);
 	}
     </script>
 	<style>	
@@ -91,7 +138,32 @@
 		}
 		
 		#chart_div {
+		  display: inline-block;
 		  margin-top: 25px;
+		}
+		
+		#chart_pie {
+			display: inline-block;
+			margin-left: 50px;
+		}
+		
+		tr td:nth-child(1n+1) {
+			width: 50px;
+		}
+		
+		tr td:nth-child(2n+2) {
+			width: 400px;
+		}
+		
+		tr td:nth-child(3n+3) {
+			width: 80px;
+		}
+		
+		tr {
+		    padding-top: 0px;
+			margin-top: -50px;
+		    height: 20px;
+			font-size: 12;
 		}
 	</style>
   </head>
@@ -99,8 +171,11 @@
   <body>
     <div class='title'>CGI: PING PONG BUGS</div>
 	<div class='download' >last generated on 26/03/2024 - 14:13	<a href='ping-pong-bugs-26032024.csv'>download (right click > open in new tab)</a></div>
-	<div id="chart_div"></div>
-	<p>More info:</p>
+	<div id="wrapper">
+		<div id="chart_div"></div>
+		<div id="chart_pie">test</div>
+	</div>
+	<p>Bugs with at least 2 regressions:</p>
 	<div id="chart_div2"></div>
   </body>
 </html>
