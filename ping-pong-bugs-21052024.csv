@@ -1,0 +1,296 @@
+WorkItemId,WorkItemName,RegressionCount
+515303,CGI-Helpdesk Problem# 11038 Skatepro - Batch Picking - Doubled Power Timereg line (System user),1
+521285,"CGI-002071 - NEW ERA UAT - INBOUND > EW failed in scheduler ",3
+531927,CR 33042 - By opening LinkedLocations on P&D point a popup apears with Page number?,0
+526753,CGI-002071 - New Era - Break Super: The POWER Location does not exist. Identification fields and values: Code='',0
+523224,CGI-002071 - New Era - Super Holder Retrieval confirmed on the wrong location,1
+525834,CGI maintenance :  CC status is not updated correctly in TL,0
+515393,"""Purchase Amount"" line accepts more decimals than the maximum allowed ",1
+521308,POST Inbound/Outbound Subscription resource-->/transports,1
+532221,CGI-002280 - ALL - error starting job queues,0
+532109,CGI-002238 - Delonghi - FLEX - Scheduler task New Process BWN goes in error,0
+513399,POST inbound order - POWER checks - with quantity -1,1
+532114,API2POW: Language does not exist at KTN Language,0
+530781,CGI-001946 Velgen NP - Dashboard Empty,0
+530801,Remove color and size codes in api,0
+530588," [CGI-Helpdesk Incident# 11080194] - [BE-KI OM New Power] - [Styra Cycle Count – can't perform CC for the 2nd location] ",0
+532007,CGI-002071 - NEW ERA UAT - OUTBOUND > TTL > No TTL Queue shown on the last step of PP - RF Android,0
+529502,"GildanUS - Qlikview 4,1 numbers are doubled",0
+522770," [CGI-Helpdesk Problem# 11066] - [Boardriders] - [Shipping Label – 2 Error labels Collipost / Hermes after migration to B2C] ",0
+530844,[POST/PUT/PATCH/ Transport Outbound with incorrect typeTransport] - should give a 400 but it gives 200,0
+529592,"TRO should NOT be updated when in status Arrived, Preloaded, Loaded, Delivered or Cancelled - CGI-002093",0
+529485,CGI-002239 - Teddy - Check LongRunningSQL's & LockTimeOuts after LoadTest to see what can be improved,0
+529487,CGI-002239 - Teddy - Check Indexes that can be optimized after LoadTest,0
+530759,CGI-002239 - Teddy - RF Picking queue - Qty=0,0
+532371,API2POW - Strange Error message appears,0
+532568,Issue with styra - multiple issues following Update,0
+532410,CGI-002242: Adeo: Hypercare: fill in Holder Unit into Promesys temp timereg records which are stuck,0
+532251,ICT-SP-Promesys - Input App - Legio - Missing Breaks,0
+511262,CGI-Helpdesk Problem# 11027 - BE-KI Delonghi New Power - New super holder created with an existing barcode,0
+526750,CGI-002279 - ACTION WRO Hypercare -  Inspection Queues created for incorrect location,0
+532064,CGI-002272 - Gildan - Scheduler tasks failed often,0
+527368,CGI-002075 - WONDERBOFAR - Scan RETURN B2C error because order in archive,0
+529472,CGI-002071 - New Era - Flex Replenishment not autolaunched,0
+532684,CGI-002238 - Delonghi - Flex - IF line error after flush location,0
+522965,"Post/Put Item APIs attributes Color, Design, Size, Model , Seasons without knowing the customer 201 instead of 400- CGI-002219",1
+532253,CGI-002071 - NEW ERA UAT - INBOUND > AS > Assign Qty to do PA more than the expected Qty when change Max Qty on (Tote) Location = Yes,0
+532365,CGI-002071 - NEW ERA UAT - INBOUND > AS > Option to FINISH PA is missing from E-Manager Admin Interface (Activity - Goods receival - Overview),0
+530617,"[CGI-Helpdesk Problem# 11050] - [BE-KI ZooPlus New Power] - Exit the PARK EQUIPMENT step, sets the equipment from PARKED to FREE",0
+522534," [CGI-Helpdesk Problem# 11016] - [Zooplus] - [Styra– WORKFOP errors] ",1
+518605,CGI-Helpdesk Problem# 11078 - BE-KI AVANOS New Power - Scanning GS1 barcode not working properly in Styra CC,0
+512725,"CGI TEST TEAM : After successfully creating a CC in Teamleader, NO Instruction Group is created in BSG ",0
+520725,CGI-001776 - BRICO - SMC + RAD HYPERCARE - STYRA update malfunction,0
+526525,CGI-002239 - Teddy - Teamleader doesn't correctly show the compareQuantity in CC Details,0
+532146,CGI-002271 - ACTION LEH  - No timeregistration - Styra - HYPERCARE,0
+532564,CGI-002239 - Teddy - Deadlocks (Dynpicking),0
+532667,CGI-002280 - Initial - Bridge EDI doesn't pick files up,0
+529561,CGI-002239 - Teddy - MIXED Type Mover in Super Holder,0
+520709,CGI-002071: (D04) COO _ Mixed holder _ Transfer Q into WCS _Err 768,0
+532553,CGI-002280 - KitchenAid - Styra Connection Issues,0
+532679,CGI-002071 - NEW ERA UAT - INBOUND > AS > Refill Option is not working in Emanager,0
+532687,CGI-002280 - INITIAL - Scheduler does not send send EW tasks by email,0
+532913,CGI-002280 - Initial - Excel Wizards are failing,0
+532856,CGI-002280 - LE CREUSE BE - ASN EDI not picked up,0
+531979,"CGI TT - BASELINE - TST -  HolderTransferV002 Trigger with no setup in activity matrix ",0
+532623,CGI-002071 - NEW ERA UAT - OUTBOUND : WCS150 failed (missing holder barcode in the code),0
+532069,CGI-002275 - ACTION SUPHUB Hypercare - No timeregistration in Styra during putaway,0
+532876,"Zinzino FAR - STD77 wrong differences shown ",0
+532565,CGI-002239 - Teddy - Performance Profiler Picking Interface Lines,0
+521288,CGI-002071 - (D03) Confirm Putaway Mixed (FIX - Find Queue with Item),1
+529436,CGI-002071 - (D04) Mixed Transfer infeed (BUG - Find Queue based on Item),0
+529311,HELPDESK 2023 - BDEF - PRD - Error label GLS: SU175577 (1485163),0
+532904,Amano JobQ in Error,0
+514890,"Enabling task TTL PACKED HOLDER generate error in packing interface record ",1
+428024,CR32945 - OM - Queue Group doesn't contain value MIXED in Transport when there are more then one TRO on it,0
+533081,"Created Items in POWER are not shown in PowApiItem table ",0
+532532,CGI-002238 - Delonghi - Flex - Possible to scan a reserved holder during Replenishment in STYRA,1
+525940,CGI-002266 - Delonghi -  Import tours -> MO creation : incorrect Multi-Order Qs created,0
+532745,CR 33377 Lot No screen skipped without filling Lot No,0
+532782,CGI-002211 - MAHARAM - Excel Wizard Creator issue,0
+526320,Permission error - Impossible to run reports,0
+532508,CGI TT - BASELINE - TST - DESADV - CGI-002177: New fields PCI STR and PCI PTR should be on different rows,0
+522547,CGI-002239 - Teddy - Power Excel Wizard modification screen layout,0
+510998,GET Transport Link -- Resource not found,1
+526220,CGI-002239 - Teddy - Cannot select holder unit,0
+533160,CGI-002280 Upgrade Wave 2 - ManoMano ES - RECCON not generated,0
+522897,CGI-002071 - NEC : Error during link instead of during validate return label,0
+486626,CGI-002225 - FERRERO  - JOB QUEUE POWInterfaces KEEP GOING IN ERROR => You cannot change the status of a closed queue.  [Table POWER Queue]	,0
+526994,CGI-002238 - Delonghi - Styra - Location From push problem HOLDER NOT FOUND doesnt ask new repln,1
+524759,Promesys Input Employee report - Date issue,0
+532595,ICT-SP-Promesys - Legio - Input App - Activity from Ortec Prefilled,0
+532934,POWER+OUTBOUND+BATCH PICKING+SPLIT OVERLOADED QG MAX QUEUES,0
+533469,missing 'closed' on transportOutbound,0
+533328,CGI-002280 - Le Creuset BE - Excel wizards received twise + 1 fail notification,0
+533044,CGI-002075 - WONDERBOFAR - TRIW can't close. (Returns),0
+531976,CGI-002071 - NEW ERA UAT - OUTBOUND - CMR (Cannot Add Sections to the CMR Type),0
+526925,CR 32923/CGI-002242: UAT: BWN processing does not lead to correct expected result,0
+532289,"CGI-002242: Adeo: Geek+: Picking: UID linked to 2 Holder No To, with wrong QG key created",0
+526330,Lauching Reports that generate an excel go into error,0
+532923,"CGI-002271 - ACTION LEH Hypercare - Interface error ""Putaway must specify to location""",0
+530706,CGI Helpdesk - Historical Prod in QV (Contract Category missing),0
+532777,CGI-002071 - NEW ERA UAT - INBOUND > Cannot close Return TRI for B2B - Interface not intialized,0
+527400,Incident# 11078673 - Zooplus - WCS+Transfer IF line to stock location cancelling loading queue = Loading interface in error,1
+533067,Packing interface runs in error,0
+519858,CGI-002071 - NEW ERA UAT - INBOUND > TRI Sorter application : Power Tri Sorter holder Sub reports wrong split up standard vs standard mixed,1
+533224,CGI TT - Baseline - TST - RF - Choosing pickholder unit page opens twice even after selecting the proposed unit once,0
+526815,API2POW: PUT OUTBOUND Lines not syncronized to Power,1
+529559,CGI Helpdesk - Historical Productivity report in QV,0
+533074,Pick holder unknown,1
+533723,CGI-002239 -Teddy - UAT URL opening like is the Navuser link,0
+533358,CGI-002239 - Teddy- Default Holder Unit filled when existing as Pick Unit setup on Customer,0
+529355,CGI-002239 - Teddy - Cannot select holder unit - Highlight suggested Unit.,2
+533327,CGI-002239 -Teddy - Permanent flags on 73460 POWER Queue Group List,0
+533701,CGI-002239 - Teddy - Detail Scanning TRUE/FALSE error,0
+532916,"CGI-002275- ACTION Hypercare - Issue with Putaway ""Location to""",0
+532915,"CGI-002276- ACTION SUPHUB Hypercare - Issue with Putaway ""Location to""",0
+532619,CGI-002272 - Gildan - Total Net Weight of items missing on the Packlist,0
+533528,CGI-002239 - Teddy - Cannot print Shipping Label of Superholder on packing line,0
+533080,CGI-002185 - GKN AWD - UAT - Outbound scheduler error after cut-off.,0
+533052,CGI-002266 - Delonghi - Unpack SuperHolder also unpacks child Holders,0
+533759,CGI-002071 -New Era - UAT URL opening like is the Navuser link,0
+533619,*1793 D01 - Can't select key for QG 'Receiving',0
+533530,"CGI-002239 - Teddy - JobQueue Interface error ""Sorry....""",0
+533066," CGI-Helpdesk Incident# 11083994 - BE-KI Boardriders New Power - Cut Off task failing for order",0
+532050,"CGI-002190 Zinzino SE & FAR - 74 -Job queue SA_PRM_UPLOAD goes into error ",0
+534118,CGI-002280 - TASC FZ + BMW CARS not working in UAT,0
+533141,CGI-002280 - 4WARD/customs - error dotnetvariable,0
+533511,"CGI-002239 - Teddy - Cannot Upload Config ",0
+526384,Night shift - Clocking out is linked to next day,0
+533206,POWDeliveryNoteDelonghi Internal Server Error,0
+533825,CGI-Helpdesk Incident# 11083999 -Boardriders - Cycle Count - Barcode not found reason does not generate inspection queue,0
+533227,Baseline- Status of the QG stays in Created After Auto Launch of QG that is linked to flex batch,0
+534120,*1793 TriSorterSSCC - add type 'Receiving' in ActivityMatrix + operation type 'TRISORTER SSCC',0
+524129,API2POW POST Items /configurations and /configDetails and /configDetailBarcodes /barcode,2
+526893,POWApiReturn not processed in APIQueue - Register: Move to processing,0
+514452,CGI-001776 - BRICO - RAD / SMC HYPERCARE - SSCC in progress / transfer to loading,0
+532468,CGI-002190 - Zinzino FAR - 75 - RSO : always promted for BBD and/or LotNr,0
+534520,POW2API Return queue in error: Invalid ItemCode [return-returnLines] - cannot be empty],0
+523003,[CGI-Helpdesk Problem# 11075] - GildanUS - SSCC found in ASN/ID but cannot be received,1
+532965,CGI-002280 Upgrade Wave 2 - ManoMano ES - Job Queue in error with specific ASN file,0
+534543,CGI-002280 - INITIAL - BC No Reply is spamming thousands of mails.,0
+519876,BR: Sort&Pack: not possible to select item other than suggested unless it's scanned a second time,0
+521423,CGI Helpdesk - Stiga & VSG IT - Missing Packing Timereg,2
+529378,CGI-002276 - CGI-002275 - ACTION SMC & SUPHUB Hypercare - Warning message when launching a QG picking,0
+534482,CGI-002239 - Teddy - Promesys Timereg SubActivity= Packing volumes prior to Upgrade missing,0
+532785,CGI-002211 - MAHARAM - Printing of stock and pick holder labels doesn't work,0
+526819,apiDefinition CGI Items,0
+526334,upload apiDefinition outbound - Cleanup unused schemas,0
+533098,CGI-002211 - MAHARAM - Dataport 72729 POWUploadCheckdigit doesn't work,0
+533927,HELPDESK 2023 - BDEF - PRD - REPORT UPLOAD ERROR,0
+533370,CGI-002280 - Bergamaschi - Incorrect label,0
+532592," [CGI-Helpdesk Problem# 11088] - [BE-KI Boardriders New Power] - [Job queue – EDI OUT job queue set to Finished] ",0
+529421,"[CGI-Helpdesk Problem# 11050] - [BE-KI ZooPlus New Power] - [picking – Reserved for external system not changed from YES to NO in POWER Location table after picking is finished] ",0
+533648,CR 33211 - Iriscolor - Next location not displayed anymore,0
+511090,CGI-Helpdesk Problem# 11026 - BE-KI Boardriders New Power - Packing - Stock holder used for packing instead of Pick holder,0
+508846," CGI-Helpdesk Problem# 11018 - BE-GNT Epiroc New Power - Outbound Picking – Operational performance is impacted – Error during picking: Queue Status is not In Progress. Please undo your pick and go back to the Queue Group List ",0
+508456," [CGI-Helpdesk Problem# 11017] - [BE-KI KitchenAid New Power] - [SDBL013– Container No not present in message] ",0
+463885," [CGI-Helpdesk Problem# 10999] - [GPC] - [Picking – Wrong pickholder unit created during multi-order picking] ",0
+532093,CGI-Helpdesk Problem #11081 - BE-KI Polaris New Power - Free stock is sent to the stock control,0
+533137,CGI-002071 - NEW ERA UAT - INBOUND > AS > Picking comment field is missing in the picking screen + Item comment shown in two different fields,0
+533350,CGI-002239 - Teddy - Volumes not Updated for Automatic Packing,0
+528341," [CGI-Helpdesk Incident# 11080320] - [BE-GNT Stiga New Power] - [RF-Power user time out issue] ",0
+533366,CGI-002271 - ACTION LEH Hypercare - CC error Characters Value,0
+508966,CR 33036 P1291 - VTCD - Weight in POD for Part Detail Light - use field 'EDI Expected Pallets Loaded' instead of 'Expected Pallets Loaded',0
+534559,CGI-002280 Upgrade Wave 2 - Demeyere - Upload Invoice on Order,0
+527227,CGI-002071 - New Era - Transfer - No value found for setting POWER+WCS++ALLOW MIXED STOCK!,0
+536522,CGI-002238 - Delonghi - Changing fields in POWER Setup,0
+513336,SkatePro- Two lines generated in Promesys & Power Time Registration for BatchPicking,0
+533290,CGI-002190 - Zinzino FAR - 77 - PLTODOEX tasks 'pending' in Scheduler,0
+522555,CGI-001776 - BRICO - SMC- Profile blocked in styra,0
+533783,No API queue created when POWER IDTransport Inbound record is inserted/deleted,1
+532458,CGI-002279 - ACTION WRO Hypercare -  User gets unexpected Instruction,1
+534144,CGI-002190 Zinzino SE - invalid child element 'QueueNbr' in namespace 'urn:microsoft-dynamics-nav/xmlports/x66093',0
+536348,TRI SORTER SSCC work cannot be Created and Launched,0
+532775,CGI-002071 - NEW ERA UAT - INBOUND > AS > RF Transfer Location do not trigger PA i AS - No interface message created,0
+523653,"CGI-002071 - NEW ERA UAT - API : API Queue stucks in Power after request  of change for the field ""quantitytodeliver"".",1
+522312,"CGI-002185 - GKN AWD - Teamleader APAC UAT - Error message ""An error occurred while sending the request."" on ""Create"" page",0
+420977,"CGI-002162 - OM - registration in promyses is not done correctly ",3
+532932,CGI-002071 - New Era - EAQueue - missing Grouping Key - missing development,0
+527328,LCG - Z Consumables - STD0077 - Difference Absolute Between Power and Promesys,0
+536537,ICT-SP-Promesys - Master Gent (UAT) Database not available,0
+530790,CGI-002275- ACTION SMC Hypercare - MY APPS Issue with team + activities inside,1
+532346,CGI-002276- ACTION SUPHUB Hypercare - MY APPS Issue with team + activities inside,1
+526002,CGI-002075 - WONDERBOX - UAT standard assembly type 5 kitting error internal error in wboxassemblywsfunctions.setinputitembarcode (no records found),0
+532678," [CGI-Helpdesk Problem# 11103] - [BE-KI Haier New Power] - [Putaway – Inbound strategy] ",0
+530474,"CGI-002071 - NEW ERA UAT - OUTBOUND > Batch Calculation > Batches stuck in status ""Locked"" ",0
+536635,No (relevant) stock records found for holder 0 (barcode ).,0
+536363,CGI-001939 - BU CGI - API2POW not working for POST/PUT returnLines,0
+531977,CGI-002071 - New Era - SuperHolderRetrieval sent to wrong location,2
+533828,CGI-002071 - New Era - Sent to External is off - (PA + Repl) to AS and STYRA,1
+534117," [CGI-Helpdesk Incident# 11082475] - [BE-KI SkatePro New Power] - [data modified in Archive, to apply the same modification in BICC] ",0
+536572,"For each SSCC within TriSorterID  (all queues created, only 1 launched) + QG key has 'FIRST' in it (shouldn't be ... is for RETURN)",0
+533646,CGI-002280 - INITIAL - Packlist issue,0
+532967,CGI-002280 - KitchenAid - Delivery Note,0
+533574,CGI-002280 - KitchenAid - Closing TRO Issue,0
+536988,CGI-002239 - Teddy - JQ Interface keep going in error with 'No value found for setting POWER+OUTBOUND+PICKING+PRECALC DYN PICKZONE DURING!',0
+532032,CGI-002071 - (D04) Holder (from or to) is put on conveyor.  Content can't be changed !,1
+534022,CGI-002239 - Teddy - Number of lines copied it's wrong,0
+536421,CGI-002242 - Adeo - Archive setup: missing CU after the power upgrade (eg. cleanup of interface not happening anymore),0
+526748,CGI-002071 - New Era - No Drop off suggestion when exiting holder retrieval,2
+536401,HELPDESK 2023 - BDEF - CGI BSO APP BDEF,0
+533120,"CGI-002242: Adeo: Geek+: If picking queue is booked back , replenishments queues attached to that specific batch get cancelled as well",0
+536932,"*1793 ConfirmWork Alfatest TST SSCC SH217599 - IF WCS/TRISORTER SSCC not created ",0
+537022," [CGI-Helpdesk Problem# 11105] - [BE-KI Baxter New Power] - [configure RF Item functionality] ",0
+533647,CGI-002280 - KitchenAid - CMS Issues,0
+526796,CGI-002219: API Item config detail barcode created without linked API Item config detail,1
+522743,"[CGI-Helpdesk Problem# 11064] - TH-MDC EDC GZ New Power - [HOLDERRECOUNT ->NODETAIL – No CycleCountWork found for given Instruction Item Code] ",0
+536444," [CGI-Helpdesk Problem# 11098] - [Zooplus] - [Outbound - Packing – Error when packing holder type = IPAKCS] ",0
+534057,CGI-002071 - New Era - Transport Reference remains empty,2
+521374," [CGI-Helpdesk Problem# 11048] - [BE-KI Osprey New Power] - Wrong item weight inserted in Power after ITEMS EDI is processed",0
+533595,"CGI-002071 - NEW ERA UAT - RF Transfer > Break Super > Error Apperead ",0
+536749,CGI2071: Adapt WCSCommunication Logivations with new webservice URL,0
+534116," [CGI-Helpdesk Incident# 11083081] - [BE-GNT GPC New Power] - [ARCHIVE V3 COPYDEL failed multiple times] ",0
+537108,[RF Android/RF Stock BSG Settings - Print Labels module is available in RF Stock] - [CR33361],0
+537212,CGI-002071 - New Era - Outbound Transporter not updated after we POST via API call,0
+534191,CGI-002185 - GKN AWD - UAT - Outbound scheduler error after cut-off.,0
+530477,"CGI-002071 - NEW ERA UAT - API ( Transport Outbound ) - Transport status not updated ",0
+537115,Baseline-Holder Retrieval button in RF Android do not work,0
+519958,CGI-002272 - Gildan - Total gross weight do not match the sum of gross weight from the detail,0
+536798,CGI-002280 - NilfiskSE - Scheduler does not send EW tasks by email,0
+533411,CGI TT - Baseline - TST - BC - Processing BWN leads into error message or it doesn't process the batch at all after calculation of Flex Batch and replenishment is not being created,0
+536496,CGI-002190 - Zinzino FAR PRD - 80 - Centiro Error: CENT023,0
+537026," [CGI-Helpdesk Incident# 11087084] - [BE-KI KitchenAid New Power] - [picking – An invalid argument was passed to a 'List' data type method.] ",0
+536598,"CGI-002239 - Teddy - For Customer=B2CTEDDY, QG Auto-launch when linked to Transport",0
+537005,CGI-002280 - INITIAL - XML FILES FROM REPORTS,0
+537027,"CGI-002177 - ATLANTIC - Styra putaway to problem loc - Interface error due to empty Location To ",0
+533829,CGI-002239 - Teddy - Issue on Multi Order Screen for Picking,0
+538268,CGI-002239 - Teddy - 98987 XML Intranet Log Insert: KTN Core,0
+538258,"CGI-002177 - ATLANTIC - Add code in POWER Interface Reason ",0
+518752,Promesys Report - Wrong values in Boardtable,2
+536574,"CGI-002071 - New Era - Carrier Decision Matrix on super holder, not working",0
+536458,CGI-002242: Adeo: Hypercare: Not possible to modify CMR after TRO is closed,0
+532248,"CGI-002242: Adeo: Hypercare: Not possible to Launch at the same time several picking QGs ",0
+533147,CGI-002280 - Le Creuset BE - Interface error after correct putaway,0
+534002,CGI-002280 - Le Creuset - Created pickholders are not printed,0
+537017,HELPDESK 2023 - BDEF - PRD - Centiro - WC did not receive EDI,0
+538354,Returns only synchronised to 1 API company,0
+532930,ICT-SP-PROMESYS Violation of Primary Key in PRMExportTarget,0
+520349,ICT-SP-Promesys - Correction Calc Task - Shifted value in BT (BC17),0
+533870,CGI-002239 - Teddy - Layout issue on Loading Order,0
+532681,CGI-002071 - New Era - No labels (blobs) included in HolderInformation,1
+533997,CGI-002239 - Teddy - CU73760 STKBAL Flow 70 R7 taking double time and failing,0
+536586,CGI-002239 - Teddy - Longest Duration locks,0
+540320,CGI-002071 - New Era - Update Weight in error without error description,0
+540294,CGI-002071 - New Era - Shipping label not printed,0
+536601,CGI-002071 - New Era - INBOUND > PUTAWAY > Styra assigns each holder to separate location (POP),0
+536933,CGI-002133- Nilfisk BE - not needed pop up screen during FB multiorder creation,0
+536896,CGI TEST TEAM - BASELINE - TST - STOCK: Destination label not printed,0
+534003,CGI-002071 - New Era - API - Get Inbound showing lines of other Inbounds when receiving on the same TRI,0
+534056,CGI-002071 - New Era - Booking Reference remains empty,3
+515470,CGI-002071 - NEW ERA UAT - INBOUND - Still can Modify ASN via API after being linked to TRI,2
+526238,Incident# 11078673 - ZOOPLUS - Packing interface line in error due to duplicate WCS100/double IF lines - *** No TTL queue found for packed holder ***,0
+540321,CGI-002280 - Le Creuset - Customer specific reports error when trying to open,0
+533781,"CGI-002279 - ACTION WRO Hypercare - Interface Error: Switching not allowed now, should be done earlier in the FHPicking process.	",0
+540359,CGI-002277 - TASC GZ - KTN Scheduler - ARCHIVE tasks in error.,0
+536997,CGI-002133 - NilfiskBE - Fastpacking gives an error,0
+536702,CGI-002133 - Nilfisk BE - No labels/documents are printed,0
+534059,CGI-002071 - New Era - BWN job queues doesn't process BWN records anymore,1
+534026,CGI-002262- GildanUS - time registration error for STYRA superholder putaway - UAT,1
+537326,CGI-002280 Upgrade Wave 2 - GPC - PPLCON LOAD not sent.,0
+536972,CGI-002238 - Delonghi -Styra- Proposed location on TRO not showing in styra FPP,0
+537107,"CR 33361 - CGI TEST TEAM - BASELINE - TST - STOCK - PRINT LABELS - Holder Label cannot be printed via RF Android, but it's possible via BC",0
+537124,CGI TT - Baseline - TST - RF - No label is being printed after finishing picking,0
+526271,CGI-001946 : Velgen - Holder label print out of alignment,0
+541538,CGI-002211 - MAHARAM - STKADJ is not sent,0
+530782,Can't edit the suggested status on Mobile device,0
+537341,CGI-002280 Upgrade Wave 2 - GPC - Unable to close TRIs,0
+532542,CGI-002071 - New Era - Return Sort Out -styra - Error Apperead after the scanning the Inbound delivery on Return Label screen,0
+520285,CGI-001946 : Velgen - Destination label through Label matrix,2
+540345,CGI-002238 - Delonghi -Styra- FPP Proposed location on TRO  Flow - Problem buttons styra,0
+512229,"DEELUXE - Two lines generated in Promesys Time Registration for BatchPicking - Volume duplicated ",0
+540478,CGI TT - Baseline - TST - BC - It is possible to click card in QG List when there is no queue group selected,0
+541598," [CGI-Helpdesk Problem# 11119] - [FR-RAD Brico New Power] - [Outbound card – no error when deleting Outbound Type] ",0
+537285,No error shown when Inbound RETURN is sent with a setting POWER+EDI+ALLOW MODIFY ASN = WHEN NO TRI-ID,1
+540459,CGI TEST TEAM - BASELINE - TST - STOCK: Content label not printed,0
+533666,CGI-002280 Upgrade Wave 2 - Demeyere - Upload Item,0
+541696,CGI-002238 - Serax - Changing field in POWER Customer,0
+538366,CGI-002238 - Delonghi -Styra- not being sent to nearest location after FPP,0
+526191,Incident# 11078673 - Zooplus - IF Error 765 in Error instead of Cancelled,0
+526236,"Incident# 11078673 - Zooplus - Fill errorcode on Interface rec for packingMatrix errors ""*** No TTL queue found for packed holder ***"" ",0
+533259,CGI-002280 - Le Creuset BE - image conversion failed,0
+536992,CR 33042: each P&D type can only have 1 type.,1
+541571,CR 33361 - BASELINE - TST - STOCK - PRINT LABELS - No holder label is printed after scanning a new empty stockholder,0
+541567,CGI TT - Baseline - TST - RF - Proposed pickholder is not working as expected when performing piece picking for a precubing QG,0
+533623,"CGI-002071 - NEW ERA UAT - OUTBOUND - CMR is not being printed + Print ADD always flagged to ""Yes""",0
+533132,ICT-SP-Promesys - Missing 1st break - Gent - LTS20.40,0
+541438," CR 32640 - ExternalSystem not correct for triggered message",0
+541672,CGI-002133-NILFISKBE No Execute Replenishment in RF,0
+532772,CGI-002275 - ACTION SUPHUB Hypercare - Holder 254070100600602645	in Interface error,0
+537033," CGI-001793 - remove check ""if quantity available .... """,0
+533216,"POWDeliveryNoteEpiroc Not Printing, Error: The SourceExpr for report control 'D14' is not valid.",0
+540297,POWDeliveryNoteSerax Error: 'ReportForNav_POWEROutbound' is not valid.,0
+532803,CGI-002280 Upgrade Wave 2 - Demeyere - Destination Group on Loading Locations,1
+541454,CGI-002133 NILFISKBE Put away queue are not created after TRI closure,0
+536550,CGI-002280 Upgrade Wave 2 - Demeyere - Block Editing of Expected ines,0
+541934,"GetNextColorSequence change structure IsolationLevel ",0
+532837,CGI-002071 - New Era - Holder Retrieval not updated after replenishment to flex location,2
+541643,CGI-002133: Stock removed from location A but never corrected on location B,0
+536962,CGI-002239 - Teddy - Export into Excel takes too long,0
+541416,CGI-002071 NEW ERA CAP: Cosmetics on EXCEL WIZARD,0
+529583,CGI-002071 - New Era - SuperRetrieval not set to Finished when executed,0
+541594,"CGI-002071 - New Era - The length of the string is 105, but it must be less than or equal to 100 characters. ",0
+541849,Consolidation Matrix-Missing setup for error 781( error message 'Master Holder' on RFAndroid appium) NOT FOUND in table 80420,0
+542048,fix UT,0
+540468,"Cut Off - Baseline - Error message appears: ""Technical error (CU 73460 > CreateOutboundQGCode): Queue group code should not be blank"" when trying to cut off specific item",0
+532299," [CGI-Helpdesk Incident# 11066723] - [BE-KI Zeeman New Power] - Packing– BPOOST labels are printing with delay ",0
+540424,CGI-002253 - FERRERO - REPORT FER002_Stock Picture - WCS,0
